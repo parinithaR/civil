@@ -1,0 +1,4608 @@
+[
+  {
+    "id": "is-456",
+    "number": "IS 456",
+    "title": "Plain and Reinforced Concrete – Code of Practice",
+    "category": "Concrete",
+    "description": "Specifies requirements for design and construction of plain and reinforced concrete structures, covering materials, workmanship, inspection and testing.",
+    "keywords": [
+      "concrete",
+      "rcc",
+      "reinforced",
+      "beam",
+      "column",
+      "slab",
+      "footing",
+      "design",
+      "plain concrete"
+    ],
+    "revision": 2000,
+    "department": "BIS",
+    "applications": [
+      "Buildings",
+      "Bridges",
+      "Retaining Walls",
+      "Foundations",
+      "Water Tanks"
+    ],
+    "relatedCodes": [
+      "IS 10262",
+      "IS 383",
+      "IS 1786",
+      "IS 516",
+      "SP 16"
+    ],
+    "notes": "Most widely used concrete design code in India. Follows limit state design method.",
+    "pdf": "pdfs/IS456.pdf"
+  },
+  {
+    "id": "is-875-1",
+    "number": "IS 875 Part 1",
+    "title": "Code of Practice for Design Loads – Dead Loads",
+    "category": "Structural Engineering",
+    "description": "Specifies unit weights of building materials and stored materials for computing dead loads on structures.",
+    "keywords": [
+      "dead load",
+      "unit weight",
+      "load",
+      "structural",
+      "design loads",
+      "building material"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Buildings",
+      "Industrial Structures",
+      "Load Calculation"
+    ],
+    "relatedCodes": [
+      "IS 875 Part 2",
+      "IS 875 Part 3",
+      "IS 875 Part 5",
+      "IS 1893"
+    ],
+    "notes": "Part of the IS 875 series covering all types of design loads.",
+    "pdf": "pdfs/IS875-Part-1.pdf"
+  },
+  {
+    "id": "is-875-2",
+    "number": "IS 875 Part 2",
+    "title": "Code of Practice for Design Loads – Imposed Loads",
+    "category": "Structural Engineering",
+    "description": "Specifies imposed (live) loads for floors, roofs and other surfaces of buildings for structural design.",
+    "keywords": [
+      "live load",
+      "imposed load",
+      "floor load",
+      "roof load",
+      "structural",
+      "design loads"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Residential Buildings",
+      "Commercial Buildings",
+      "Industrial Buildings"
+    ],
+    "relatedCodes": [
+      "IS 875 Part 1",
+      "IS 875 Part 3",
+      "IS 456"
+    ],
+    "notes": "Tabulates imposed loads for various occupancy types.",
+    "pdf": "pdfs/IS875-Part-2.pdf"
+  },
+  {
+    "id": "is-875-3",
+    "number": "IS 875 Part 3",
+    "title": "Code of Practice for Design Loads – Wind Loads",
+    "category": "Wind",
+    "description": "Gives wind speed data and methods to calculate wind pressure on buildings and structures.",
+    "keywords": [
+      "wind load",
+      "wind pressure",
+      "wind speed",
+      "gust",
+      "terrain",
+      "design loads"
+    ],
+    "revision": 2015,
+    "department": "BIS",
+    "applications": [
+      "Tall Buildings",
+      "Towers",
+      "Chimneys",
+      "Industrial Sheds"
+    ],
+    "relatedCodes": [
+      "IS 875 Part 1",
+      "IS 875 Part 5",
+      "IS 1893"
+    ],
+    "notes": "Revised in 2015 with updated wind speed maps of India.",
+    "pdf": "pdfs/IS875-Part-3.pdf"
+  },
+  {
+    "id": "is-875-4",
+    "number": "IS 875 Part 4",
+    "title": "Code of Practice for Design Loads – Snow Loads",
+    "category": "Structural Engineering",
+    "description": "Covers snow load considerations for roofs of buildings located in snowfall regions.",
+    "keywords": [
+      "snow load",
+      "roof load",
+      "design loads",
+      "winter",
+      "himalayan"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Hilly Terrain Buildings",
+      "Himalayan Region Structures"
+    ],
+    "relatedCodes": [
+      "IS 875 Part 1",
+      "IS 875 Part 2"
+    ],
+    "notes": "Applicable primarily to buildings in northern hilly regions of India.",
+    "pdf": "pdfs/IS875-Part-4.pdf"
+  },
+  {
+    "id": "is-875-5",
+    "number": "IS 875 Part 5",
+    "title": "Code of Practice for Design Loads – Special Loads and Combinations",
+    "category": "Structural Engineering",
+    "description": "Covers special loads including thermal loads, fatigue loads, erection loads and load combinations.",
+    "keywords": [
+      "special loads",
+      "load combination",
+      "thermal load",
+      "erection load",
+      "fatigue"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Industrial Structures",
+      "Special Structures"
+    ],
+    "relatedCodes": [
+      "IS 875 Part 1",
+      "IS 875 Part 2",
+      "IS 875 Part 3",
+      "IS 1893"
+    ],
+    "notes": "Used alongside other parts of IS 875 for comprehensive load analysis.",
+    "pdf": "pdfs/IS875-Part-5.pdf"
+  },
+  {
+    "id": "is-10262",
+    "number": "IS 10262",
+    "title": "Concrete Mix Proportioning – Guidelines",
+    "category": "Concrete",
+    "description": "Provides guidelines for proportioning concrete mixes to achieve desired workability, strength and durability.",
+    "keywords": [
+      "mix design",
+      "concrete mix",
+      "water cement ratio",
+      "workability",
+      "strength",
+      "durability"
+    ],
+    "revision": 2019,
+    "department": "BIS",
+    "applications": [
+      "All Concrete Works",
+      "RCC Structures",
+      "Precast Concrete"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 383",
+      "IS 1786",
+      "IS 516"
+    ],
+    "notes": "Revised in 2019 to include performance-based design approach.",
+    "pdf": "pdfs/IS10262.pdf"
+  },
+  {
+    "id": "is-383",
+    "number": "IS 383",
+    "title": "Coarse and Fine Aggregate for Concrete – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for natural and crushed coarse and fine aggregates used in concrete.",
+    "keywords": [
+      "aggregate",
+      "sand",
+      "gravel",
+      "coarse aggregate",
+      "fine aggregate",
+      "concrete material"
+    ],
+    "revision": 2016,
+    "department": "BIS",
+    "applications": [
+      "Concrete Production",
+      "Mortar",
+      "Plaster"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 10262",
+      "IS 2386"
+    ],
+    "notes": "Revised in 2016 to include manufactured sand (M-Sand) specifications.",
+    "pdf": "pdfs/IS383.pdf"
+  },
+  {
+    "id": "is-1786",
+    "number": "IS 1786",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement – Specification",
+    "category": "Steel",
+    "description": "Specifies requirements for high strength deformed steel bars (Fe415, Fe500, Fe550, Fe600) used for reinforcing concrete.",
+    "keywords": [
+      "rebar",
+      "reinforcement",
+      "steel bar",
+      "deformed bar",
+      "fe415",
+      "fe500",
+      "tmt",
+      "tor steel"
+    ],
+    "revision": 2008,
+    "department": "BIS",
+    "applications": [
+      "RCC Structures",
+      "Foundations",
+      "Beams",
+      "Columns",
+      "Slabs"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 432",
+      "IS 2062"
+    ],
+    "notes": "Fe500D and Fe550D grades include enhanced ductility requirements for seismic zones.",
+    "pdf": "pdfs/IS1786.pdf"
+  },
+  {
+    "id": "is-432",
+    "number": "IS 432",
+    "title": "Mild Steel and Medium Tensile Steel Bars for Concrete Reinforcement",
+    "category": "Steel",
+    "description": "Specifies requirements for mild steel and medium tensile steel bars used in concrete reinforcement.",
+    "keywords": [
+      "mild steel",
+      "steel bar",
+      "reinforcement",
+      "round bar",
+      "fe250"
+    ],
+    "revision": 1982,
+    "department": "BIS",
+    "applications": [
+      "Plain Cement Concrete",
+      "Light Reinforcement Work"
+    ],
+    "relatedCodes": [
+      "IS 1786",
+      "IS 456"
+    ],
+    "notes": "Covers Fe250 grade plain round bars.",
+    "pdf": "pdfs/IS432.pdf"
+  },
+  {
+    "id": "is-800",
+    "number": "IS 800",
+    "title": "General Construction in Steel – Code of Practice",
+    "category": "Steel",
+    "description": "Comprehensive code for design, fabrication and erection of steel structures using limit state method.",
+    "keywords": [
+      "steel structure",
+      "structural steel",
+      "limit state",
+      "beam",
+      "column",
+      "connection",
+      "weld",
+      "bolt"
+    ],
+    "revision": 2007,
+    "department": "BIS",
+    "applications": [
+      "Industrial Buildings",
+      "Steel Bridges",
+      "Towers",
+      "Trusses",
+      "Space Frames"
+    ],
+    "relatedCodes": [
+      "IS 2062",
+      "IS 816",
+      "IS 1024",
+      "IS 875"
+    ],
+    "notes": "Revised in 2007 from working stress to limit state design method.",
+    "pdf": "pdfs/IS800.pdf"
+  },
+  {
+    "id": "is-2062",
+    "number": "IS 2062",
+    "title": "Hot Rolled Medium and High Tensile Structural Steel – Specification",
+    "category": "Steel",
+    "description": "Specifies requirements for hot rolled steel plates, strips, shapes and sections used in structural applications.",
+    "keywords": [
+      "structural steel",
+      "hot rolled",
+      "steel section",
+      "angle",
+      "channel",
+      "i-section",
+      "steel plate"
+    ],
+    "revision": 2011,
+    "department": "BIS",
+    "applications": [
+      "Steel Structures",
+      "Bridges",
+      "Industrial Buildings",
+      "Transmission Towers"
+    ],
+    "relatedCodes": [
+      "IS 800",
+      "IS 1730",
+      "IS 808"
+    ],
+    "notes": "Covers grades E250, E300, E350, E410, E450, E550.",
+    "pdf": "pdfs/IS2062.pdf"
+  },
+  {
+    "id": "is-1343",
+    "number": "IS 1343",
+    "title": "Prestressed Concrete – Code of Practice",
+    "category": "Prestressed Concrete",
+    "description": "Covers design and construction of prestressed concrete structures including pre-tensioning and post-tensioning.",
+    "keywords": [
+      "prestressed concrete",
+      "psc",
+      "pre-tensioning",
+      "post-tensioning",
+      "tendon",
+      "anchorage",
+      "prestress"
+    ],
+    "revision": 2012,
+    "department": "BIS",
+    "applications": [
+      "Long Span Bridges",
+      "Girders",
+      "Roof Members",
+      "Railway Sleepers"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 6006",
+      "IRC 18"
+    ],
+    "notes": "Revised in 2012 with updated limit state design approach.",
+    "pdf": "pdfs/IS1343.pdf"
+  },
+  {
+    "id": "is-3370-1",
+    "number": "IS 3370 Part 1",
+    "title": "Concrete Structures for Storage of Liquids – Code of Practice (General)",
+    "category": "Concrete",
+    "description": "Provides guidance for design of concrete structures used for storage of water and liquids.",
+    "keywords": [
+      "water tank",
+      "liquid storage",
+      "reservoir",
+      "concrete tank",
+      "crack width",
+      "watertight"
+    ],
+    "revision": 2009,
+    "department": "BIS",
+    "applications": [
+      "Water Storage Tanks",
+      "Sewage Tanks",
+      "Underground Reservoirs"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 3370 Part 2",
+      "IS 3370 Part 4"
+    ],
+    "notes": "Revised in 2009 to align with limit state design philosophy.",
+    "pdf": "pdfs/IS3370-Part-1.pdf"
+  },
+  {
+    "id": "is-1893-1",
+    "number": "IS 1893 Part 1",
+    "title": "Criteria for Earthquake Resistant Design – General Provisions and Buildings",
+    "category": "Earthquake",
+    "description": "Provides seismic zoning map and criteria for earthquake resistant design of buildings and structures.",
+    "keywords": [
+      "earthquake",
+      "seismic",
+      "zone",
+      "response spectrum",
+      "base shear",
+      "ductility",
+      "lateral load"
+    ],
+    "revision": 2016,
+    "department": "BIS",
+    "applications": [
+      "All Buildings in Seismic Zones",
+      "Industrial Structures",
+      "Chimneys"
+    ],
+    "relatedCodes": [
+      "IS 13920",
+      "IS 4326",
+      "IS 456",
+      "IS 800"
+    ],
+    "notes": "Revised in 2016. India divided into four seismic zones (II to V).",
+    "pdf": "pdfs/IS1893-Part-1.pdf"
+  },
+  {
+    "id": "is-13920",
+    "number": "IS 13920",
+    "title": "Ductile Design and Detailing of Reinforced Concrete Structures Subject to Seismic Forces",
+    "category": "Earthquake",
+    "description": "Specifies ductile detailing requirements for reinforced concrete members to ensure adequate seismic performance.",
+    "keywords": [
+      "ductile detailing",
+      "seismic",
+      "earthquake",
+      "confinement",
+      "stirrup",
+      "reinforcement detail",
+      "rcc seismic"
+    ],
+    "revision": 2016,
+    "department": "BIS",
+    "applications": [
+      "RCC Buildings in Seismic Zones III, IV, V",
+      "Seismic Retrofit"
+    ],
+    "relatedCodes": [
+      "IS 1893 Part 1",
+      "IS 456",
+      "IS 4326"
+    ],
+    "notes": "Mandatory for buildings in seismic zones III and above.",
+    "pdf": "pdfs/IS13920.pdf"
+  },
+  {
+    "id": "is-4326",
+    "number": "IS 4326",
+    "title": "Earthquake Resistant Design and Construction of Buildings – Code of Practice",
+    "category": "Earthquake",
+    "description": "Covers earthquake resistant construction features for masonry, timber and RCC buildings.",
+    "keywords": [
+      "earthquake",
+      "seismic",
+      "masonry building",
+      "construction",
+      "band",
+      "lintel band"
+    ],
+    "revision": 2013,
+    "department": "BIS",
+    "applications": [
+      "Masonry Buildings",
+      "Low Rise Buildings in Seismic Zones"
+    ],
+    "relatedCodes": [
+      "IS 1893",
+      "IS 13920",
+      "IS 13828"
+    ],
+    "notes": "Prescribes seismic bands and other construction features for masonry.",
+    "pdf": "pdfs/IS4326.pdf"
+  },
+  {
+    "id": "is-13828",
+    "number": "IS 13828",
+    "title": "Improving Earthquake Resistance of Low Strength Masonry Buildings – Guidelines",
+    "category": "Earthquake",
+    "description": "Guidelines for improving seismic resistance of existing low strength masonry buildings.",
+    "keywords": [
+      "masonry",
+      "earthquake retrofit",
+      "seismic",
+      "low strength",
+      "existing building"
+    ],
+    "revision": 1993,
+    "department": "BIS",
+    "applications": [
+      "Rural Buildings",
+      "Old Masonry Structures",
+      "Seismic Retrofitting"
+    ],
+    "relatedCodes": [
+      "IS 4326",
+      "IS 1893"
+    ],
+    "notes": "Especially useful for rural and semi-urban construction.",
+    "pdf": "pdfs/IS13828.pdf"
+  },
+  {
+    "id": "is-2911-1-1",
+    "number": "IS 2911 Part 1 Sec 1",
+    "title": "Design and Construction of Pile Foundations – Driven Cast In-situ Concrete Piles",
+    "category": "Foundation & Geotechnical",
+    "description": "Covers design and construction of driven cast-in-situ concrete pile foundations.",
+    "keywords": [
+      "pile",
+      "pile foundation",
+      "driven pile",
+      "cast in situ",
+      "deep foundation",
+      "bore pile"
+    ],
+    "revision": 2010,
+    "department": "BIS",
+    "applications": [
+      "High Rise Buildings",
+      "Bridges",
+      "Flyovers",
+      "Marine Structures"
+    ],
+    "relatedCodes": [
+      "IS 2911 Part 1 Sec 2",
+      "IS 6403",
+      "IS 1904"
+    ],
+    "notes": "Part of IS 2911 series covering all types of piles.",
+    "pdf": "pdfs/IS2911-Part-1-Sec-1.pdf"
+  },
+  {
+    "id": "is-2911-1-2",
+    "number": "IS 2911 Part 1 Sec 2",
+    "title": "Design and Construction of Pile Foundations – Bored Cast In-situ Piles",
+    "category": "Foundation & Geotechnical",
+    "description": "Covers design and construction of bored cast-in-situ concrete pile foundations.",
+    "keywords": [
+      "bored pile",
+      "pile foundation",
+      "cast in situ",
+      "deep foundation",
+      "RCC pile"
+    ],
+    "revision": 2010,
+    "department": "BIS",
+    "applications": [
+      "Urban Construction",
+      "Bridge Foundations",
+      "High Rise Buildings"
+    ],
+    "relatedCodes": [
+      "IS 2911 Part 1 Sec 1",
+      "IS 6403",
+      "IS 1904"
+    ],
+    "notes": "Most commonly used pile type in Indian urban construction.",
+    "pdf": "pdfs/IS2911-Part-1-Sec-2.pdf"
+  },
+  {
+    "id": "is-6403",
+    "number": "IS 6403",
+    "title": "Determination of Breaking Capacity of Shallow Foundations",
+    "category": "Foundation & Geotechnical",
+    "description": "Provides methods to determine the ultimate bearing capacity of shallow foundations.",
+    "keywords": [
+      "bearing capacity",
+      "shallow foundation",
+      "footing",
+      "soil",
+      "safe bearing capacity"
+    ],
+    "revision": 1981,
+    "department": "BIS",
+    "applications": [
+      "Spread Footings",
+      "Raft Foundations",
+      "Strip Foundations"
+    ],
+    "relatedCodes": [
+      "IS 1904",
+      "IS 2720",
+      "IS 1888"
+    ],
+    "notes": "Based on Terzaghi and Meyerhof bearing capacity theories.",
+    "pdf": "pdfs/IS6403.pdf"
+  },
+  {
+    "id": "is-1904",
+    "number": "IS 1904",
+    "title": "Design and Construction of Foundations in Soils – General Requirements",
+    "category": "Foundation & Geotechnical",
+    "description": "Provides general requirements for design and construction of foundations in soils.",
+    "keywords": [
+      "foundation",
+      "soil",
+      "settlement",
+      "bearing capacity",
+      "shallow foundation",
+      "design"
+    ],
+    "revision": 1986,
+    "department": "BIS",
+    "applications": [
+      "All Types of Foundations",
+      "Site Investigation",
+      "Settlement Analysis"
+    ],
+    "relatedCodes": [
+      "IS 6403",
+      "IS 2911",
+      "IS 1888",
+      "IS 2720"
+    ],
+    "notes": "General umbrella code for all foundation design in India.",
+    "pdf": "pdfs/IS1904.pdf"
+  },
+  {
+    "id": "is-1888",
+    "number": "IS 1888",
+    "title": "Method of Load Test on Soils",
+    "category": "Foundation & Geotechnical",
+    "description": "Describes procedure for conducting plate load test on soils to determine bearing capacity and settlement.",
+    "keywords": [
+      "plate load test",
+      "soil test",
+      "bearing capacity",
+      "settlement",
+      "PLT",
+      "field test"
+    ],
+    "revision": 1982,
+    "department": "BIS",
+    "applications": [
+      "Site Investigation",
+      "Foundation Design",
+      "Soil Testing"
+    ],
+    "relatedCodes": [
+      "IS 6403",
+      "IS 1904",
+      "IS 2720"
+    ],
+    "notes": "Plate load test is a direct field method to determine allowable bearing pressure.",
+    "pdf": "pdfs/IS1888.pdf"
+  },
+  {
+    "id": "is-2720-1",
+    "number": "IS 2720 Part 1",
+    "title": "Methods of Test for Soils – Preparation of Dry Soil Samples",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies method for preparation of dry soil samples for testing.",
+    "keywords": [
+      "soil test",
+      "soil sample",
+      "geotechnical",
+      "laboratory test",
+      "soil investigation"
+    ],
+    "revision": 1983,
+    "department": "BIS",
+    "applications": [
+      "Geotechnical Investigation",
+      "Foundation Design",
+      "Earthwork"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 2",
+      "IS 2720 Part 3",
+      "IS 2720 Part 4"
+    ],
+    "notes": "Part of extensive IS 2720 series with 40+ parts covering all soil tests.",
+    "pdf": "pdfs/IS2720-Part-1.pdf"
+  },
+  {
+    "id": "is-2720-3",
+    "number": "IS 2720 Part 3",
+    "title": "Methods of Test for Soils – Determination of Specific Gravity",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies methods for determination of specific gravity of soil solids.",
+    "keywords": [
+      "specific gravity",
+      "soil test",
+      "geotechnical",
+      "laboratory test"
+    ],
+    "revision": 1980,
+    "department": "BIS",
+    "applications": [
+      "Soil Classification",
+      "Compaction Studies"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 1",
+      "IS 2720 Part 4",
+      "IS 1498"
+    ],
+    "notes": "Uses pycnometer method for determining specific gravity.",
+    "pdf": "pdfs/IS2720-Part-3.pdf"
+  },
+  {
+    "id": "is-2720-4",
+    "number": "IS 2720 Part 4",
+    "title": "Methods of Test for Soils – Grain Size Analysis",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies methods for determination of particle size distribution of soils.",
+    "keywords": [
+      "grain size",
+      "particle size",
+      "sieve analysis",
+      "hydrometer",
+      "soil classification"
+    ],
+    "revision": 1985,
+    "department": "BIS",
+    "applications": [
+      "Soil Classification",
+      "Filter Design",
+      "Pavement Design"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 3",
+      "IS 1498"
+    ],
+    "notes": "Covers both sieve analysis and hydrometer method.",
+    "pdf": "pdfs/IS2720-Part-4.pdf"
+  },
+  {
+    "id": "is-2720-5",
+    "number": "IS 2720 Part 5",
+    "title": "Methods of Test for Soils – Atterberg Limits",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies methods for determination of liquid limit, plastic limit and shrinkage limit of soils.",
+    "keywords": [
+      "atterberg limits",
+      "liquid limit",
+      "plastic limit",
+      "plasticity index",
+      "consistency",
+      "clay"
+    ],
+    "revision": 1985,
+    "department": "BIS",
+    "applications": [
+      "Soil Classification",
+      "Expansive Soil Identification",
+      "Subgrade Evaluation"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 4",
+      "IS 1498"
+    ],
+    "notes": "Casagrande apparatus used for liquid limit determination.",
+    "pdf": "pdfs/IS2720-Part-5.pdf"
+  },
+  {
+    "id": "is-2720-7",
+    "number": "IS 2720 Part 7",
+    "title": "Methods of Test for Soils – Light Compaction (Proctor)",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies the standard Proctor compaction test to determine optimum moisture content and maximum dry density.",
+    "keywords": [
+      "proctor test",
+      "compaction",
+      "OMC",
+      "MDD",
+      "optimum moisture",
+      "dry density",
+      "earthwork"
+    ],
+    "revision": 1980,
+    "department": "BIS",
+    "applications": [
+      "Embankment Design",
+      "Road Subgrade",
+      "Earth Dam",
+      "Fill Material"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 8",
+      "IS 2720 Part 5"
+    ],
+    "notes": "Light compaction test. Heavy compaction covered in IS 2720 Part 8.",
+    "pdf": "pdfs/IS2720-Part-7.pdf"
+  },
+  {
+    "id": "is-2720-10",
+    "number": "IS 2720 Part 10",
+    "title": "Methods of Test for Soils – Unconfined Compressive Strength",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies method for determination of unconfined compressive strength of cohesive soils.",
+    "keywords": [
+      "UCS",
+      "unconfined compressive strength",
+      "cohesive soil",
+      "shear strength",
+      "clay strength"
+    ],
+    "revision": 1991,
+    "department": "BIS",
+    "applications": [
+      "Slope Stability",
+      "Foundation Design",
+      "Soft Clay Characterization"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 11",
+      "IS 2720 Part 13"
+    ],
+    "notes": "Quick and simple field/lab test for cohesive soil strength.",
+    "pdf": "pdfs/IS2720-Part-10.pdf"
+  },
+  {
+    "id": "is-2720-13",
+    "number": "IS 2720 Part 13",
+    "title": "Methods of Test for Soils – Direct Shear Test",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies method for determination of shear strength parameters (c, φ) of soils using direct shear box.",
+    "keywords": [
+      "direct shear",
+      "shear strength",
+      "cohesion",
+      "friction angle",
+      "soil strength"
+    ],
+    "revision": 1986,
+    "department": "BIS",
+    "applications": [
+      "Slope Stability Analysis",
+      "Retaining Wall Design",
+      "Foundation Design"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 10",
+      "IS 2720 Part 11"
+    ],
+    "notes": "Provides drained and undrained shear strength parameters.",
+    "pdf": "pdfs/IS2720-Part-13.pdf"
+  },
+  {
+    "id": "is-1498",
+    "number": "IS 1498",
+    "title": "Classification and Identification of Soils for General Engineering Purposes",
+    "category": "Foundation & Geotechnical",
+    "description": "Provides the Indian Standard classification system for soils based on plasticity and grain size.",
+    "keywords": [
+      "soil classification",
+      "IS classification",
+      "clay",
+      "silt",
+      "gravel",
+      "sand",
+      "plasticity chart"
+    ],
+    "revision": 1970,
+    "department": "BIS",
+    "applications": [
+      "Site Investigation",
+      "Foundation Design",
+      "Earthwork Design"
+    ],
+    "relatedCodes": [
+      "IS 2720 Part 4",
+      "IS 2720 Part 5"
+    ],
+    "notes": "Based on Unified Soil Classification System (USCS).",
+    "pdf": "pdfs/IS1498.pdf"
+  },
+  {
+    "id": "is-516",
+    "number": "IS 516",
+    "title": "Methods of Tests for Strength of Concrete",
+    "category": "Concrete",
+    "description": "Specifies methods for sampling fresh concrete, making, curing and testing concrete specimens for strength.",
+    "keywords": [
+      "concrete test",
+      "compressive strength",
+      "cube test",
+      "flexural strength",
+      "curing",
+      "concrete cube"
+    ],
+    "revision": 1959,
+    "department": "BIS",
+    "applications": [
+      "Concrete Quality Control",
+      "Structural Testing",
+      "Mix Design Verification"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 10262",
+      "IS 1199"
+    ],
+    "notes": "150mm cube specimens used for compressive strength testing in India.",
+    "pdf": "pdfs/IS516.pdf"
+  },
+  {
+    "id": "is-1199",
+    "number": "IS 1199",
+    "title": "Methods of Sampling and Analysis of Concrete",
+    "category": "Concrete",
+    "description": "Specifies methods for sampling fresh concrete and testing for workability using slump, compaction factor and Vee-Bee tests.",
+    "keywords": [
+      "workability",
+      "slump test",
+      "compaction factor",
+      "vee-bee",
+      "fresh concrete",
+      "sampling"
+    ],
+    "revision": 1959,
+    "department": "BIS",
+    "applications": [
+      "Concrete Quality Control",
+      "Ready Mix Concrete",
+      "Site Testing"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 516",
+      "IS 10262"
+    ],
+    "notes": "Slump test is the most commonly used workability test in India.",
+    "pdf": "pdfs/IS1199.pdf"
+  },
+  {
+    "id": "is-2386",
+    "number": "IS 2386",
+    "title": "Methods of Test for Aggregates for Concrete",
+    "category": "Construction Materials",
+    "description": "Specifies methods for testing physical and mechanical properties of aggregates used in concrete.",
+    "keywords": [
+      "aggregate test",
+      "impact value",
+      "crushing value",
+      "abrasion",
+      "flakiness",
+      "elongation",
+      "aggregate"
+    ],
+    "revision": 1963,
+    "department": "BIS",
+    "applications": [
+      "Aggregate Quality Control",
+      "Concrete Mix Design",
+      "Road Construction"
+    ],
+    "relatedCodes": [
+      "IS 383",
+      "IS 456",
+      "IS 10262"
+    ],
+    "notes": "Multi-part standard covering particle shape, size, mechanical properties and soundness.",
+    "pdf": "pdfs/IS2386.pdf"
+  },
+  {
+    "id": "is-269",
+    "number": "IS 269",
+    "title": "Ordinary Portland Cement – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for Ordinary Portland Cement (OPC) 33 grade used in construction.",
+    "keywords": [
+      "cement",
+      "OPC",
+      "portland cement",
+      "ordinary cement",
+      "33 grade"
+    ],
+    "revision": 2015,
+    "department": "BIS",
+    "applications": [
+      "General Construction",
+      "Concrete",
+      "Mortar",
+      "Plastering"
+    ],
+    "relatedCodes": [
+      "IS 8112",
+      "IS 12269",
+      "IS 1489",
+      "IS 455"
+    ],
+    "notes": "33 grade OPC. Higher grades covered in IS 8112 and IS 12269.",
+    "pdf": "pdfs/IS269.pdf"
+  },
+  {
+    "id": "is-8112",
+    "number": "IS 8112",
+    "title": "Ordinary Portland Cement 43 Grade – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for Ordinary Portland Cement of 43 grade.",
+    "keywords": [
+      "cement",
+      "OPC",
+      "43 grade",
+      "portland cement",
+      "ordinary cement"
+    ],
+    "revision": 2013,
+    "department": "BIS",
+    "applications": [
+      "General RCC Works",
+      "Concrete Structures",
+      "Masonry Mortar"
+    ],
+    "relatedCodes": [
+      "IS 269",
+      "IS 12269",
+      "IS 1489",
+      "IS 456"
+    ],
+    "notes": "Most commonly used cement grade in Indian construction.",
+    "pdf": "pdfs/IS8112.pdf"
+  },
+  {
+    "id": "is-12269",
+    "number": "IS 12269",
+    "title": "Ordinary Portland Cement 53 Grade – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for Ordinary Portland Cement of 53 grade with higher early and ultimate strength.",
+    "keywords": [
+      "cement",
+      "OPC",
+      "53 grade",
+      "high strength cement",
+      "portland cement"
+    ],
+    "revision": 2013,
+    "department": "BIS",
+    "applications": [
+      "High Strength Concrete",
+      "Precast",
+      "Prestressed Concrete",
+      "Fast Track Projects"
+    ],
+    "relatedCodes": [
+      "IS 269",
+      "IS 8112",
+      "IS 456"
+    ],
+    "notes": "Highest strength OPC grade. Used where early strength development is needed.",
+    "pdf": "pdfs/IS12269.pdf"
+  },
+  {
+    "id": "is-1489-1",
+    "number": "IS 1489 Part 1",
+    "title": "Portland Pozzolana Cement (Fly Ash Based) – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for Portland Pozzolana Cement made by intergrinding OPC clinker with fly ash.",
+    "keywords": [
+      "PPC",
+      "pozzolana cement",
+      "fly ash",
+      "blended cement",
+      "portland pozzolana"
+    ],
+    "revision": 1991,
+    "department": "BIS",
+    "applications": [
+      "Mass Concrete",
+      "Marine Structures",
+      "Plastering",
+      "General Construction"
+    ],
+    "relatedCodes": [
+      "IS 269",
+      "IS 8112",
+      "IS 455",
+      "IS 456"
+    ],
+    "notes": "Preferred over OPC for marine and sulfate-resistant applications.",
+    "pdf": "pdfs/IS1489-Part-1.pdf"
+  },
+  {
+    "id": "is-455",
+    "number": "IS 455",
+    "title": "Portland Slag Cement – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for Portland Slag Cement made by intergrinding OPC clinker with granulated blast furnace slag.",
+    "keywords": [
+      "PSC",
+      "slag cement",
+      "GGBS",
+      "blended cement",
+      "portland slag"
+    ],
+    "revision": 1989,
+    "department": "BIS",
+    "applications": [
+      "Sulfate Resistant Construction",
+      "Underground Works",
+      "Marine Structures"
+    ],
+    "relatedCodes": [
+      "IS 269",
+      "IS 1489",
+      "IS 456"
+    ],
+    "notes": "Good sulfate resistance. Lower heat of hydration than OPC.",
+    "pdf": "pdfs/IS455.pdf"
+  },
+  {
+    "id": "is-9103",
+    "number": "IS 9103",
+    "title": "Concrete Admixtures – Specification",
+    "category": "Concrete",
+    "description": "Specifies requirements for chemical admixtures used in concrete including plasticizers, retarders and accelerators.",
+    "keywords": [
+      "admixture",
+      "plasticizer",
+      "superplasticizer",
+      "retarder",
+      "accelerator",
+      "concrete additive"
+    ],
+    "revision": 1999,
+    "department": "BIS",
+    "applications": [
+      "Ready Mix Concrete",
+      "High Performance Concrete",
+      "Self Compacting Concrete"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 10262",
+      "IS 383"
+    ],
+    "notes": "Chemical admixtures can significantly improve workability and reduce w/c ratio.",
+    "pdf": "pdfs/IS9103.pdf"
+  },
+  {
+    "id": "is-1077",
+    "number": "IS 1077",
+    "title": "Common Burnt Clay Building Bricks – Specification",
+    "category": "Masonry",
+    "description": "Specifies requirements for common burnt clay bricks used in masonry construction including classification and testing.",
+    "keywords": [
+      "brick",
+      "clay brick",
+      "burnt brick",
+      "masonry",
+      "brick strength",
+      "water absorption"
+    ],
+    "revision": 1992,
+    "department": "BIS",
+    "applications": [
+      "Wall Construction",
+      "Masonry Structures",
+      "Partition Walls"
+    ],
+    "relatedCodes": [
+      "IS 3495",
+      "IS 1905",
+      "IS 2250"
+    ],
+    "notes": "Classifies bricks into grades based on compressive strength.",
+    "pdf": "pdfs/IS1077.pdf"
+  },
+  {
+    "id": "is-3495",
+    "number": "IS 3495",
+    "title": "Methods of Tests of Burnt Clay Building Bricks",
+    "category": "Masonry",
+    "description": "Specifies methods of tests for burnt clay building bricks including compressive strength, water absorption and efflorescence.",
+    "keywords": [
+      "brick test",
+      "compressive strength",
+      "water absorption",
+      "efflorescence",
+      "clay brick test"
+    ],
+    "revision": 1992,
+    "department": "BIS",
+    "applications": [
+      "Brick Quality Control",
+      "Material Testing"
+    ],
+    "relatedCodes": [
+      "IS 1077",
+      "IS 1905"
+    ],
+    "notes": "Standard test methods for evaluating brick quality.",
+    "pdf": "pdfs/IS3495.pdf"
+  },
+  {
+    "id": "is-1905",
+    "number": "IS 1905",
+    "title": "Structural Use of Unreinforced Masonry – Code of Practice",
+    "category": "Masonry",
+    "description": "Code for structural design of unreinforced load bearing masonry walls, columns and piers.",
+    "keywords": [
+      "masonry design",
+      "load bearing",
+      "brick wall",
+      "masonry wall",
+      "slenderness ratio",
+      "masonry column"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Load Bearing Masonry Buildings",
+      "Compound Walls",
+      "Retaining Walls"
+    ],
+    "relatedCodes": [
+      "IS 1077",
+      "IS 2250",
+      "IS 4326"
+    ],
+    "notes": "Covers design of unreinforced masonry using working stress method.",
+    "pdf": "pdfs/IS1905.pdf"
+  },
+  {
+    "id": "is-2250",
+    "number": "IS 2250",
+    "title": "Preparation and Use of Masonry Mortars – Code of Practice",
+    "category": "Masonry",
+    "description": "Provides guidelines for preparation of mortar used in brick and stone masonry construction.",
+    "keywords": [
+      "mortar",
+      "masonry mortar",
+      "cement mortar",
+      "lime mortar",
+      "brick mortar",
+      "joint"
+    ],
+    "revision": 1981,
+    "department": "BIS",
+    "applications": [
+      "Brick Masonry",
+      "Stone Masonry",
+      "Plaster Work"
+    ],
+    "relatedCodes": [
+      "IS 1077",
+      "IS 1905",
+      "IS 712"
+    ],
+    "notes": "Specifies mix proportions for different mortar grades.",
+    "pdf": "pdfs/IS2250.pdf"
+  },
+  {
+    "id": "is-10500",
+    "number": "IS 10500",
+    "title": "Drinking Water – Specification",
+    "category": "Water Supply",
+    "description": "Specifies quality standards for drinking water including physical, chemical and bacteriological requirements.",
+    "keywords": [
+      "drinking water",
+      "water quality",
+      "potable water",
+      "water standard",
+      "pH",
+      "turbidity",
+      "coliform"
+    ],
+    "revision": 2012,
+    "department": "BIS",
+    "applications": [
+      "Water Treatment Plants",
+      "Public Water Supply",
+      "Water Quality Testing"
+    ],
+    "relatedCodes": [
+      "IS 1172",
+      "IS 2470"
+    ],
+    "notes": "Aligned with WHO guidelines for drinking water quality.",
+    "pdf": "pdfs/IS10500.pdf"
+  },
+  {
+    "id": "is-1172",
+    "number": "IS 1172",
+    "title": "Code of Basic Requirements for Water Supply, Drainage and Sanitation",
+    "category": "Water Supply",
+    "description": "Provides basic requirements for design of water supply and sanitation systems for buildings.",
+    "keywords": [
+      "water supply",
+      "drainage",
+      "sanitation",
+      "per capita",
+      "plumbing",
+      "building services"
+    ],
+    "revision": 1993,
+    "department": "BIS",
+    "applications": [
+      "Residential Buildings",
+      "Commercial Buildings",
+      "Urban Planning"
+    ],
+    "relatedCodes": [
+      "IS 10500",
+      "IS 1742",
+      "IS 2470"
+    ],
+    "notes": "Specifies per capita water demand for different uses.",
+    "pdf": "pdfs/IS1172.pdf"
+  },
+  {
+    "id": "is-1742",
+    "number": "IS 1742",
+    "title": "Code of Practice for Building Drainage",
+    "category": "Water Supply",
+    "description": "Covers design and installation of drainage systems within and around buildings.",
+    "keywords": [
+      "drainage",
+      "building drainage",
+      "sewer",
+      "sanitary",
+      "trap",
+      "manhole",
+      "plumbing"
+    ],
+    "revision": 1983,
+    "department": "BIS",
+    "applications": [
+      "Building Drainage Systems",
+      "Plumbing Design",
+      "Sanitary Systems"
+    ],
+    "relatedCodes": [
+      "IS 1172",
+      "IS 2470"
+    ],
+    "notes": "Covers gravity drainage and ventilation of drainage systems.",
+    "pdf": "pdfs/IS1742.pdf"
+  },
+  {
+    "id": "is-2470-1",
+    "number": "IS 2470 Part 1",
+    "title": "Installation of Septic Tanks – Code of Practice (Design)",
+    "category": "Wastewater",
+    "description": "Provides design guidelines for septic tanks for treatment of domestic sewage.",
+    "keywords": [
+      "septic tank",
+      "wastewater",
+      "sewage treatment",
+      "onsite sanitation",
+      "effluent"
+    ],
+    "revision": 1985,
+    "department": "BIS",
+    "applications": [
+      "Rural Sanitation",
+      "Individual Household Systems",
+      "Small Communities"
+    ],
+    "relatedCodes": [
+      "IS 1172",
+      "IS 1742",
+      "IS 4111"
+    ],
+    "notes": "Commonly used where no public sewer system exists.",
+    "pdf": "pdfs/IS2470-Part-1.pdf"
+  },
+  {
+    "id": "is-4111-1",
+    "number": "IS 4111 Part 1",
+    "title": "Code of Practice for Ancillary Structures in Sewerage System – Manholes",
+    "category": "Wastewater",
+    "description": "Specifies design and construction requirements for manholes in sewerage systems.",
+    "keywords": [
+      "manhole",
+      "sewer",
+      "sewerage",
+      "inspection chamber",
+      "underground drainage"
+    ],
+    "revision": 1986,
+    "department": "BIS",
+    "applications": [
+      "Sewer Networks",
+      "Drainage Systems",
+      "Municipal Infrastructure"
+    ],
+    "relatedCodes": [
+      "IS 1742",
+      "IS 2470"
+    ],
+    "notes": "Covers brick, stone and RCC manhole construction.",
+    "pdf": "pdfs/IS4111-Part-1.pdf"
+  },
+  {
+    "id": "is-883",
+    "number": "IS 883",
+    "title": "Design of Structural Timber in Building – Code of Practice",
+    "category": "Timber",
+    "description": "Provides design guidelines for structural timber members in buildings using working stress method.",
+    "keywords": [
+      "timber",
+      "wood",
+      "structural timber",
+      "beam",
+      "truss",
+      "timber design",
+      "lumber"
+    ],
+    "revision": 1994,
+    "department": "BIS",
+    "applications": [
+      "Timber Roofs",
+      "Wooden Floors",
+      "Timber Trusses",
+      "Furniture Frames"
+    ],
+    "relatedCodes": [
+      "IS 287",
+      "IS 1141",
+      "IS 10440"
+    ],
+    "notes": "Covers design of beams, columns, connections in timber structures.",
+    "pdf": "pdfs/IS883.pdf"
+  },
+  {
+    "id": "is-287",
+    "number": "IS 287",
+    "title": "Recommendations for Maximum Permissible Moisture Content of Timber for Different End Uses",
+    "category": "Timber",
+    "description": "Specifies maximum permissible moisture content of timber for various applications.",
+    "keywords": [
+      "timber",
+      "moisture content",
+      "wood",
+      "seasoning",
+      "drying"
+    ],
+    "revision": 1993,
+    "department": "BIS",
+    "applications": [
+      "Timber for Construction",
+      "Furniture Making",
+      "Timber Floors"
+    ],
+    "relatedCodes": [
+      "IS 883",
+      "IS 1141"
+    ],
+    "notes": "Controls moisture to prevent decay, warping and dimensional changes.",
+    "pdf": "pdfs/IS287.pdf"
+  },
+  {
+    "id": "is-962",
+    "number": "IS 962",
+    "title": "Code of Practice for Architectural and Building Drawings",
+    "category": "Building Planning",
+    "description": "Specifies conventions, symbols and methods for preparation of architectural and building drawings.",
+    "keywords": [
+      "drawing",
+      "architectural drawing",
+      "building plan",
+      "symbols",
+      "conventions",
+      "drafting"
+    ],
+    "revision": 1989,
+    "department": "BIS",
+    "applications": [
+      "Architectural Design",
+      "Building Permit Drawings",
+      "Construction Documentation"
+    ],
+    "relatedCodes": [
+      "SP 7",
+      "NBC 2016"
+    ],
+    "notes": "Standard reference for drawing conventions in Indian construction.",
+    "pdf": "pdfs/IS962.pdf"
+  },
+  {
+    "id": "is-1641",
+    "number": "IS 1641",
+    "title": "Code of Practice for Fire Safety of Buildings (General) – General Principles of Fire Grading and Classification",
+    "category": "Fire Safety",
+    "description": "Provides general principles for fire grading and classification of buildings.",
+    "keywords": [
+      "fire safety",
+      "fire rating",
+      "fire grading",
+      "building fire",
+      "fire protection"
+    ],
+    "revision": 1988,
+    "department": "BIS",
+    "applications": [
+      "All Buildings",
+      "Fire Safety Planning",
+      "Building Code Compliance"
+    ],
+    "relatedCodes": [
+      "IS 1642",
+      "IS 1643",
+      "NBC 2016"
+    ],
+    "notes": "First in a series of fire safety codes for buildings.",
+    "pdf": "pdfs/IS1641.pdf"
+  },
+  {
+    "id": "is-3696-1",
+    "number": "IS 3696 Part 1",
+    "title": "Safety Code for Scaffolds and Ladders – Scaffolds",
+    "category": "Construction Management",
+    "description": "Provides safety requirements for design and erection of scaffolding for construction work.",
+    "keywords": [
+      "scaffold",
+      "scaffolding",
+      "construction safety",
+      "formwork",
+      "working platform"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Building Construction",
+      "Bridge Construction",
+      "Maintenance Work"
+    ],
+    "relatedCodes": [
+      "IS 3696 Part 2",
+      "IS 4082"
+    ],
+    "notes": "Essential for safe working at height during construction.",
+    "pdf": "pdfs/IS3696-Part-1.pdf"
+  },
+  {
+    "id": "is-4082",
+    "number": "IS 4082",
+    "title": "Recommendations on Stacking and Storage of Construction Materials at Site",
+    "category": "Construction Management",
+    "description": "Provides guidelines for proper stacking, storage and handling of construction materials at site.",
+    "keywords": [
+      "storage",
+      "stacking",
+      "material handling",
+      "site management",
+      "construction materials"
+    ],
+    "revision": 1996,
+    "department": "BIS",
+    "applications": [
+      "Construction Site Management",
+      "Material Storage"
+    ],
+    "relatedCodes": [
+      "IS 3696",
+      "IS 4926"
+    ],
+    "notes": "Helps prevent material deterioration and site accidents.",
+    "pdf": "pdfs/IS4082.pdf"
+  },
+  {
+    "id": "is-4926",
+    "number": "IS 4926",
+    "title": "Ready Mixed Concrete – Code of Practice",
+    "category": "Concrete",
+    "description": "Covers requirements for production, delivery and testing of ready mixed concrete (RMC).",
+    "keywords": [
+      "ready mix concrete",
+      "RMC",
+      "transit mixer",
+      "batching plant",
+      "concrete delivery"
+    ],
+    "revision": 2003,
+    "department": "BIS",
+    "applications": [
+      "Urban Construction",
+      "Large Projects",
+      "Infrastructure"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 10262",
+      "IS 4031"
+    ],
+    "notes": "RMC ensures consistent quality and faster construction.",
+    "pdf": "pdfs/IS4926.pdf"
+  },
+  {
+    "id": "is-9013",
+    "number": "IS 9013",
+    "title": "Method of Making, Curing and Determining Compressive Strength of Accelerated Cured Concrete Test Specimens",
+    "category": "Concrete",
+    "description": "Specifies method for accelerated curing of concrete test specimens to predict 28-day strength.",
+    "keywords": [
+      "accelerated curing",
+      "concrete strength",
+      "early strength",
+      "prediction",
+      "concrete test"
+    ],
+    "revision": 1978,
+    "department": "BIS",
+    "applications": [
+      "Pre-cast Concrete",
+      "Early Strength Assessment",
+      "Quality Control"
+    ],
+    "relatedCodes": [
+      "IS 516",
+      "IS 456",
+      "IS 10262"
+    ],
+    "notes": "Allows strength assessment in shorter duration (24-28 hours).",
+    "pdf": "pdfs/IS9013.pdf"
+  },
+  {
+    "id": "is-9620",
+    "number": "IS 9620",
+    "title": "Specification for Concrete Roofing Tiles",
+    "category": "Building Planning",
+    "description": "Specifies requirements for concrete roofing tiles including dimensions, strength and water absorption.",
+    "keywords": [
+      "roofing tile",
+      "concrete tile",
+      "roof",
+      "tile specification"
+    ],
+    "revision": 1980,
+    "department": "BIS",
+    "applications": [
+      "Residential Roofing",
+      "Institutional Buildings"
+    ],
+    "relatedCodes": [
+      "IS 1077",
+      "NBC 2016"
+    ],
+    "notes": "Alternative to clay tiles with better durability.",
+    "pdf": "pdfs/IS9620.pdf"
+  },
+  {
+    "id": "is-816",
+    "number": "IS 816",
+    "title": "Code of Practice for Use of Metal Arc Welding for General Construction in Mild Steel",
+    "category": "Steel",
+    "description": "Covers requirements for metal arc welding of mild steel for general construction purposes.",
+    "keywords": [
+      "welding",
+      "arc welding",
+      "mild steel",
+      "weld",
+      "electrode",
+      "fillet weld",
+      "butt weld"
+    ],
+    "revision": 1969,
+    "department": "BIS",
+    "applications": [
+      "Steel Structure Fabrication",
+      "Bridge Construction",
+      "Industrial Structures"
+    ],
+    "relatedCodes": [
+      "IS 800",
+      "IS 2062",
+      "IS 1024"
+    ],
+    "notes": "Covers qualification, procedure and inspection of welds.",
+    "pdf": "pdfs/IS816.pdf"
+  },
+  {
+    "id": "irc-6",
+    "number": "IRC 6",
+    "title": "Standard Specifications and Code of Practice for Road Bridges – Loads and Load Combinations",
+    "category": "Bridge",
+    "description": "Specifies standard vehicle loadings (IRC Class AA, A, B) and load combinations for road bridges in India.",
+    "keywords": [
+      "bridge load",
+      "vehicle load",
+      "IRC class",
+      "road bridge",
+      "truck load",
+      "bridge design"
+    ],
+    "revision": 2017,
+    "department": "IRC",
+    "applications": [
+      "Highway Bridges",
+      "Flyovers",
+      "Grade Separators",
+      "Culverts"
+    ],
+    "relatedCodes": [
+      "IRC 21",
+      "IRC 78",
+      "IRC 112"
+    ],
+    "notes": "IRC Class AA tracked and wheeled vehicles are standard design vehicles.",
+    "pdf": "pdfs/IRC6.pdf"
+  },
+  {
+    "id": "irc-21",
+    "number": "IRC 21",
+    "title": "Standard Specifications and Code of Practice for Road Bridges – Cement Concrete Bridges",
+    "category": "Bridge",
+    "description": "Covers design requirements for plain and reinforced concrete road bridges.",
+    "keywords": [
+      "concrete bridge",
+      "RCC bridge",
+      "road bridge",
+      "bridge design",
+      "span",
+      "girder"
+    ],
+    "revision": 2000,
+    "department": "IRC",
+    "applications": [
+      "RCC Road Bridges",
+      "Culverts",
+      "Box Culverts"
+    ],
+    "relatedCodes": [
+      "IRC 6",
+      "IRC 78",
+      "IS 456"
+    ],
+    "notes": "Now largely superseded by IRC 112 for new bridges.",
+    "pdf": "pdfs/IRC21.pdf"
+  },
+  {
+    "id": "irc-37",
+    "number": "IRC 37",
+    "title": "Guidelines for Design of Flexible Pavements",
+    "category": "Transportation & Highway",
+    "description": "Provides design procedures for flexible (bituminous) pavements based on traffic volume and subgrade strength.",
+    "keywords": [
+      "flexible pavement",
+      "bituminous pavement",
+      "road design",
+      "CBR",
+      "traffic",
+      "pavement thickness"
+    ],
+    "revision": 2018,
+    "department": "IRC",
+    "applications": [
+      "National Highways",
+      "State Highways",
+      "Urban Roads",
+      "Rural Roads"
+    ],
+    "relatedCodes": [
+      "IRC 58",
+      "IRC 73",
+      "IRC 15"
+    ],
+    "notes": "Revised in 2018 with mechanistic-empirical design approach.",
+    "pdf": "pdfs/IRC37.pdf"
+  },
+  {
+    "id": "irc-58",
+    "number": "IRC 58",
+    "title": "Guidelines for Design of Plain Jointed Rigid Pavements for Highways",
+    "category": "Transportation & Highway",
+    "description": "Provides design procedures for plain cement concrete (rigid) pavements for highways.",
+    "keywords": [
+      "rigid pavement",
+      "concrete road",
+      "PCC",
+      "pavement design",
+      "joint",
+      "slab",
+      "modulus of subgrade"
+    ],
+    "revision": 2015,
+    "department": "IRC",
+    "applications": [
+      "Expressways",
+      "National Highways",
+      "Industrial Roads",
+      "Airport Taxiways"
+    ],
+    "relatedCodes": [
+      "IRC 37",
+      "IRC 15",
+      "IS 456"
+    ],
+    "notes": "Revised in 2015 with updated fatigue and temperature considerations.",
+    "pdf": "pdfs/IRC58.pdf"
+  },
+  {
+    "id": "irc-73",
+    "number": "IRC 73",
+    "title": "Geometric Design Standards for Rural (Non-Urban) Highways",
+    "category": "Transportation & Highway",
+    "description": "Provides geometric design standards for alignment, cross-section, junctions and grade for rural highways.",
+    "keywords": [
+      "geometric design",
+      "highway alignment",
+      "road geometry",
+      "cross section",
+      "sight distance",
+      "curve"
+    ],
+    "revision": 1980,
+    "department": "IRC",
+    "applications": [
+      "Rural Highway Design",
+      "State Highway Alignment",
+      "Road Planning"
+    ],
+    "relatedCodes": [
+      "IRC 37",
+      "IRC 86"
+    ],
+    "notes": "Covers design speed, sight distance, horizontal and vertical curves.",
+    "pdf": "pdfs/IRC73.pdf"
+  },
+  {
+    "id": "irc-78",
+    "number": "IRC 78",
+    "title": "Standard Specifications and Code of Practice for Road Bridges – Foundation and Substructure",
+    "category": "Bridge",
+    "description": "Covers design requirements for foundations and substructure of road bridges including piers, abutments and pile foundations.",
+    "keywords": [
+      "bridge foundation",
+      "pier",
+      "abutment",
+      "bridge substructure",
+      "pile foundation",
+      "bridge"
+    ],
+    "revision": 2014,
+    "department": "IRC",
+    "applications": [
+      "Road Bridges",
+      "Flyovers",
+      "River Bridges"
+    ],
+    "relatedCodes": [
+      "IRC 6",
+      "IRC 112",
+      "IS 2911"
+    ],
+    "notes": "Covers pile, well, open and raft foundations for bridges.",
+    "pdf": "pdfs/IRC78.pdf"
+  },
+  {
+    "id": "irc-83",
+    "number": "IRC 83",
+    "title": "Standard Specifications and Code of Practice for Road Bridges – Bearings",
+    "category": "Bridge",
+    "description": "Covers design and installation of elastomeric, PTFE and metallic bearings for road bridges.",
+    "keywords": [
+      "bridge bearing",
+      "elastomeric bearing",
+      "pot bearing",
+      "PTFE",
+      "expansion",
+      "bridge support"
+    ],
+    "revision": 2018,
+    "department": "IRC",
+    "applications": [
+      "Bridge Superstructure Support",
+      "Flyovers",
+      "Viaducts"
+    ],
+    "relatedCodes": [
+      "IRC 6",
+      "IRC 78",
+      "IRC 112"
+    ],
+    "notes": "Multi-part code covering different types of bridge bearings.",
+    "pdf": "pdfs/IRC83.pdf"
+  },
+  {
+    "id": "irc-112",
+    "number": "IRC 112",
+    "title": "Code of Practice for Concrete Road Bridges",
+    "category": "Bridge",
+    "description": "Comprehensive limit state design code for concrete road bridges covering all aspects of design and detailing.",
+    "keywords": [
+      "concrete bridge",
+      "limit state",
+      "bridge design",
+      "prestressed bridge",
+      "RCC bridge",
+      "eurocode"
+    ],
+    "revision": 2020,
+    "department": "IRC",
+    "applications": [
+      "All Concrete Road Bridges",
+      "Major Bridges",
+      "Prestressed Bridges"
+    ],
+    "relatedCodes": [
+      "IRC 6",
+      "IRC 78",
+      "IS 1343"
+    ],
+    "notes": "Modern code aligned with Eurocodes replacing IRC 21 and IRC 18.",
+    "pdf": "pdfs/IRC112.pdf"
+  },
+  {
+    "id": "irc-103",
+    "number": "IRC 103",
+    "title": "Guidelines for Pedestrian Facilities",
+    "category": "Transportation & Highway",
+    "description": "Provides guidelines for design and provision of pedestrian facilities along and across roads.",
+    "keywords": [
+      "pedestrian",
+      "footpath",
+      "crosswalk",
+      "zebra crossing",
+      "pavement",
+      "walkway",
+      "foot over bridge"
+    ],
+    "revision": 2012,
+    "department": "IRC",
+    "applications": [
+      "Urban Roads",
+      "Pedestrian Infrastructure",
+      "Road Safety"
+    ],
+    "relatedCodes": [
+      "IRC 73",
+      "IRC 86"
+    ],
+    "notes": "Includes provisions for differently-abled persons.",
+    "pdf": "pdfs/IRC103.pdf"
+  },
+  {
+    "id": "irc-15",
+    "number": "IRC 15",
+    "title": "Standard Specifications and Code of Practice for Construction of Concrete Roads",
+    "category": "Transportation & Highway",
+    "description": "Specifies construction procedures, materials and quality control for concrete road pavements.",
+    "keywords": [
+      "concrete road",
+      "rigid pavement",
+      "construction",
+      "PCC",
+      "pavement construction",
+      "jointing"
+    ],
+    "revision": 2011,
+    "department": "IRC",
+    "applications": [
+      "Concrete Road Construction",
+      "Expressways",
+      "National Highways"
+    ],
+    "relatedCodes": [
+      "IRC 58",
+      "IS 456"
+    ],
+    "notes": "Covers formwork, concrete placement, curing and joint sealing.",
+    "pdf": "pdfs/IRC15.pdf"
+  },
+  {
+    "id": "irc-18",
+    "number": "IRC 18",
+    "title": "Design Criteria for Prestressed Concrete Road Bridges",
+    "category": "Bridge",
+    "description": "Provides design criteria for prestressed concrete road bridges (now largely superseded by IRC 112).",
+    "keywords": [
+      "prestressed bridge",
+      "PSC bridge",
+      "road bridge",
+      "tendon",
+      "prestress"
+    ],
+    "revision": 2000,
+    "department": "IRC",
+    "applications": [
+      "Long Span Bridges",
+      "Prestressed Concrete Bridges"
+    ],
+    "relatedCodes": [
+      "IRC 112",
+      "IRC 6",
+      "IS 1343"
+    ],
+    "notes": "Largely replaced by IRC 112 for new bridge designs.",
+    "pdf": "pdfs/IRC18.pdf"
+  },
+  {
+    "id": "irc-35",
+    "number": "IRC 35",
+    "title": "Code of Practice for Road Markings",
+    "category": "Transportation & Highway",
+    "description": "Covers materials, dimensions and applications of road markings including lane lines, stop lines and arrows.",
+    "keywords": [
+      "road marking",
+      "lane marking",
+      "traffic marking",
+      "thermoplastic",
+      "pavement marking"
+    ],
+    "revision": 1997,
+    "department": "IRC",
+    "applications": [
+      "Highway Road Markings",
+      "Urban Road Markings",
+      "Traffic Safety"
+    ],
+    "relatedCodes": [
+      "IRC 70",
+      "IRC 73"
+    ],
+    "notes": "Yellow and white markings differentiated for different purposes.",
+    "pdf": "pdfs/IRC35.pdf"
+  },
+  {
+    "id": "irc-70",
+    "number": "IRC 70",
+    "title": "Guidelines on Regulation and Control of Mixed Traffic in Urban Areas",
+    "category": "Transportation & Highway",
+    "description": "Provides guidelines for traffic management and regulation in urban areas with mixed traffic.",
+    "keywords": [
+      "urban traffic",
+      "mixed traffic",
+      "traffic control",
+      "intersection",
+      "signal",
+      "traffic management"
+    ],
+    "revision": 1977,
+    "department": "IRC",
+    "applications": [
+      "Urban Traffic Engineering",
+      "Intersection Design",
+      "Traffic Signal Design"
+    ],
+    "relatedCodes": [
+      "IRC 103",
+      "IRC 86"
+    ],
+    "notes": "Addresses unique challenges of Indian mixed traffic conditions.",
+    "pdf": "pdfs/IRC70.pdf"
+  },
+  {
+    "id": "nbc-2016",
+    "number": "NBC 2016",
+    "title": "National Building Code of India 2016",
+    "category": "Building Planning",
+    "description": "Comprehensive model building code providing guidelines for design, construction, materials, and safety of buildings across India.",
+    "keywords": [
+      "building code",
+      "NBC",
+      "national code",
+      "building regulation",
+      "fire safety",
+      "accessibility",
+      "structural"
+    ],
+    "revision": 2016,
+    "department": "BIS",
+    "applications": [
+      "All Types of Buildings",
+      "Urban Planning",
+      "Building Permits"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 800",
+      "IS 1893",
+      "SP 7"
+    ],
+    "notes": "Multi-volume code covering all aspects of building construction. Updated in 2016.",
+    "pdf": "pdfs/NBC2016.pdf"
+  },
+  {
+    "id": "sp-16",
+    "number": "SP 16",
+    "title": "Design Aids for Reinforced Concrete to IS 456",
+    "category": "Concrete",
+    "description": "Provides design charts, tables and interaction diagrams for reinforced concrete design as per IS 456.",
+    "keywords": [
+      "design aid",
+      "interaction diagram",
+      "chart",
+      "table",
+      "reinforced concrete",
+      "column design",
+      "beam design"
+    ],
+    "revision": 1980,
+    "department": "BIS",
+    "applications": [
+      "RCC Design",
+      "Column Design",
+      "Beam Design",
+      "Teaching Aid"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 1786",
+      "SP 34"
+    ],
+    "notes": "Widely used design handbook for quick reference without detailed calculations.",
+    "pdf": "pdfs/SP16.pdf"
+  },
+  {
+    "id": "sp-34",
+    "number": "SP 34",
+    "title": "Handbook on Concrete Reinforcement and Detailing",
+    "category": "Concrete",
+    "description": "Provides practical guidance on reinforcement detailing for various RCC elements as per IS 456.",
+    "keywords": [
+      "detailing",
+      "reinforcement",
+      "bar bending schedule",
+      "BBS",
+      "lap length",
+      "cover",
+      "stirrup"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "RCC Detailing",
+      "Bar Bending Schedule Preparation",
+      "Site Engineers"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "SP 16",
+      "IS 1786"
+    ],
+    "notes": "Essential reference for site engineers and draftsmen.",
+    "pdf": "pdfs/SP34.pdf"
+  },
+  {
+    "id": "sp-24",
+    "number": "SP 24",
+    "title": "Explanatory Handbook on IS 456",
+    "category": "Concrete",
+    "description": "Provides clause-by-clause explanation and commentary on IS 456 with worked examples.",
+    "keywords": [
+      "IS 456 commentary",
+      "explanatory",
+      "worked examples",
+      "concrete design",
+      "explanation"
+    ],
+    "revision": 1983,
+    "department": "BIS",
+    "applications": [
+      "Learning IS 456",
+      "Teaching Aid",
+      "Design Reference"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "SP 16",
+      "SP 34"
+    ],
+    "notes": "Best companion document to IS 456 for understanding intent of clauses.",
+    "pdf": "pdfs/SP24.pdf"
+  },
+  {
+    "id": "sp-62",
+    "number": "SP 62",
+    "title": "Handbook on Building Construction Practices",
+    "category": "Construction Management",
+    "description": "Comprehensive handbook covering practical aspects of building construction materials and methods.",
+    "keywords": [
+      "construction practice",
+      "building construction",
+      "masonry",
+      "concrete",
+      "finishing",
+      "waterproofing"
+    ],
+    "revision": 1997,
+    "department": "BIS",
+    "applications": [
+      "Site Engineers",
+      "Contractors",
+      "Construction Supervision"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "NBC 2016"
+    ],
+    "notes": "Practical reference for site supervisors and construction engineers.",
+    "pdf": "pdfs/SP62.pdf"
+  },
+  {
+    "id": "sp-7",
+    "number": "SP 7",
+    "title": "National Building Code – Handbook",
+    "category": "Building Planning",
+    "description": "Handbook accompanying the National Building Code explaining provisions and providing guidance.",
+    "keywords": [
+      "building code",
+      "NBC",
+      "handbook",
+      "building regulation",
+      "planning"
+    ],
+    "revision": 2005,
+    "department": "BIS",
+    "applications": [
+      "Building Design",
+      "Urban Planning",
+      "Building Permits"
+    ],
+    "relatedCodes": [
+      "NBC 2016",
+      "IS 456",
+      "IS 800"
+    ],
+    "notes": "Companion to NBC for practical application.",
+    "pdf": "pdfs/SP7.pdf"
+  },
+  {
+    "id": "sp-6-1",
+    "number": "SP 6 Part 1",
+    "title": "Handbook for Structural Engineers – Structural Steel Sections",
+    "category": "Steel",
+    "description": "Provides section properties, tables and design aids for structural steel sections used in India.",
+    "keywords": [
+      "steel section",
+      "I-beam",
+      "angle",
+      "channel",
+      "section properties",
+      "moment of inertia",
+      "structural steel"
+    ],
+    "revision": 1964,
+    "department": "BIS",
+    "applications": [
+      "Steel Structure Design",
+      "Steel Section Selection"
+    ],
+    "relatedCodes": [
+      "IS 800",
+      "IS 2062",
+      "IS 808"
+    ],
+    "notes": "Essential reference table book for steel structure designers.",
+    "pdf": "pdfs/SP6-Part-1.pdf"
+  },
+  {
+    "id": "sp-27",
+    "number": "SP 27",
+    "title": "Handbook on Methods of Measurement of Building Works",
+    "category": "Construction Management",
+    "description": "Provides standard methods of measurement for different items of building construction work.",
+    "keywords": [
+      "measurement",
+      "quantity",
+      "billing",
+      "BOQ",
+      "estimation",
+      "construction measurement"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Quantity Surveying",
+      "Bill of Quantities",
+      "Cost Estimation"
+    ],
+    "relatedCodes": [
+      "SP 62",
+      "NBC 2016"
+    ],
+    "notes": "Standard reference for measurement of all building works.",
+    "pdf": "pdfs/SP27.pdf"
+  },
+  {
+    "id": "sp-32",
+    "number": "SP 32",
+    "title": "Handbook on Functional Requirements of Buildings",
+    "category": "Building Planning",
+    "description": "Covers functional requirements including space planning, lighting, ventilation and acoustic requirements for buildings.",
+    "keywords": [
+      "functional requirement",
+      "space planning",
+      "lighting",
+      "ventilation",
+      "acoustic",
+      "building design"
+    ],
+    "revision": 1986,
+    "department": "BIS",
+    "applications": [
+      "Architectural Design",
+      "Space Planning",
+      "Building Services"
+    ],
+    "relatedCodes": [
+      "NBC 2016",
+      "SP 7"
+    ],
+    "notes": "Useful for architectural planning and space optimization.",
+    "pdf": "pdfs/SP32.pdf"
+  },
+  {
+    "id": "aci-318",
+    "number": "ACI 318",
+    "title": "Building Code Requirements for Structural Concrete",
+    "category": "Concrete",
+    "description": "Comprehensive US building code for structural concrete covering design, materials, construction and inspection.",
+    "keywords": [
+      "ACI",
+      "concrete",
+      "structural concrete",
+      "US code",
+      "reinforced concrete",
+      "limit state",
+      "strength design"
+    ],
+    "revision": 2019,
+    "department": "ACI",
+    "applications": [
+      "Buildings",
+      "Bridges",
+      "Industrial Structures",
+      "Foundations"
+    ],
+    "relatedCodes": [
+      "ACI 301",
+      "ACI 211",
+      "ACI 224"
+    ],
+    "notes": "Most widely referenced concrete design code internationally.",
+    "pdf": "pdfs/ACI318.pdf"
+  },
+  {
+    "id": "aci-301",
+    "number": "ACI 301",
+    "title": "Specifications for Structural Concrete",
+    "category": "Concrete",
+    "description": "Specifications for construction of structural concrete covering materials, mixing, placing, curing and finishing.",
+    "keywords": [
+      "concrete specification",
+      "ACI",
+      "construction concrete",
+      "placing concrete",
+      "curing"
+    ],
+    "revision": 2016,
+    "department": "ACI",
+    "applications": [
+      "Concrete Construction Specifications",
+      "Quality Control"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "ACI 211"
+    ],
+    "notes": "Intended for use as a reference document in project specifications.",
+    "pdf": "pdfs/ACI301.pdf"
+  },
+  {
+    "id": "aci-211",
+    "number": "ACI 211",
+    "title": "Standard Practice for Selecting Proportions for Normal Concrete",
+    "category": "Concrete",
+    "description": "Provides standard method for proportioning concrete mixtures to meet desired workability and strength.",
+    "keywords": [
+      "mix design",
+      "ACI mix",
+      "concrete proportioning",
+      "water cement ratio",
+      "mix proportion"
+    ],
+    "revision": 1991,
+    "department": "ACI",
+    "applications": [
+      "Concrete Mix Design",
+      "Normal Weight Concrete",
+      "Quality Control"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "ACI 301"
+    ],
+    "notes": "The standard ACI method for mix design, widely used globally.",
+    "pdf": "pdfs/ACI211.pdf"
+  },
+  {
+    "id": "aci-224",
+    "number": "ACI 224",
+    "title": "Control of Cracking in Concrete Structures",
+    "category": "Concrete",
+    "description": "Provides guidance on causes and control of cracking in concrete structures.",
+    "keywords": [
+      "crack",
+      "cracking",
+      "concrete crack",
+      "shrinkage crack",
+      "crack control",
+      "crack width"
+    ],
+    "revision": 2001,
+    "department": "ACI",
+    "applications": [
+      "All Concrete Structures",
+      "Durability Design",
+      "Repair"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "ACI 301"
+    ],
+    "notes": "Essential reference for understanding and preventing concrete cracking.",
+    "pdf": "pdfs/ACI224.pdf"
+  },
+  {
+    "id": "aci-350",
+    "number": "ACI 350",
+    "title": "Code Requirements for Environmental Engineering Concrete Structures",
+    "category": "Water Supply",
+    "description": "Code for design of concrete structures used to contain or process water and wastewater.",
+    "keywords": [
+      "water structure",
+      "tank",
+      "wastewater",
+      "environmental concrete",
+      "ACI",
+      "liquid retaining"
+    ],
+    "revision": 2006,
+    "department": "ACI",
+    "applications": [
+      "Water Treatment Plants",
+      "Sewage Treatment Plants",
+      "Tanks"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "IS 3370"
+    ],
+    "notes": "US equivalent of IS 3370 for liquid retaining structures.",
+    "pdf": "pdfs/ACI350.pdf"
+  },
+  {
+    "id": "aci-440",
+    "number": "ACI 440",
+    "title": "Guide for the Design and Construction of Structural Concrete Reinforced with FRP Bars",
+    "category": "Concrete",
+    "description": "Provides design recommendations for concrete reinforced with fiber-reinforced polymer (FRP) bars.",
+    "keywords": [
+      "FRP",
+      "fiber reinforced polymer",
+      "GFRP",
+      "CFRP",
+      "corrosion free reinforcement",
+      "composite"
+    ],
+    "revision": 2015,
+    "department": "ACI",
+    "applications": [
+      "Marine Structures",
+      "Chemically Aggressive Environments",
+      "MRI Rooms"
+    ],
+    "relatedCodes": [
+      "ACI 318"
+    ],
+    "notes": "FRP bars are non-corrosive alternative to steel reinforcement.",
+    "pdf": "pdfs/ACI440.pdf"
+  },
+  {
+    "id": "aci-530",
+    "number": "ACI 530",
+    "title": "Building Code Requirements and Specification for Masonry Structures",
+    "category": "Masonry",
+    "description": "US building code for design and construction of masonry structures.",
+    "keywords": [
+      "masonry",
+      "brick",
+      "block",
+      "masonry design",
+      "ACI",
+      "TMS",
+      "masonry wall"
+    ],
+    "revision": 2013,
+    "department": "ACI",
+    "applications": [
+      "Masonry Buildings",
+      "Masonry Walls",
+      "Reinforced Masonry"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "IS 1905"
+    ],
+    "notes": "Joint code by ACI, ASCE and TMS for masonry design.",
+    "pdf": "pdfs/ACI530.pdf"
+  },
+  {
+    "id": "aci-562",
+    "number": "ACI 562",
+    "title": "Code Requirements for Assessment, Repair, and Rehabilitation of Existing Concrete Structures",
+    "category": "Concrete",
+    "description": "Code for evaluation and rehabilitation of existing concrete structures.",
+    "keywords": [
+      "repair",
+      "rehabilitation",
+      "existing structure",
+      "assessment",
+      "retrofit",
+      "concrete repair"
+    ],
+    "revision": 2019,
+    "department": "ACI",
+    "applications": [
+      "Structural Repair",
+      "Building Renovation",
+      "Bridge Rehabilitation"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "ACI 224"
+    ],
+    "notes": "First ACI code specifically for existing structure assessment and repair.",
+    "pdf": "pdfs/ACI562.pdf"
+  },
+  {
+    "id": "astm-c150",
+    "number": "ASTM C150",
+    "title": "Standard Specification for Portland Cement",
+    "category": "Construction Materials",
+    "description": "Covers eight types of portland cement including general use, moderate sulfate resistant and high early strength types.",
+    "keywords": [
+      "cement",
+      "portland cement",
+      "ASTM",
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type V",
+      "sulfate"
+    ],
+    "revision": 2022,
+    "department": "ASTM",
+    "applications": [
+      "Concrete",
+      "Mortar",
+      "Grout",
+      "General Construction"
+    ],
+    "relatedCodes": [
+      "ASTM C595",
+      "ACI 318",
+      "IS 269"
+    ],
+    "notes": "Type I/II most common; Type V for sulfate-resistant applications.",
+    "pdf": "pdfs/ASTMC150.pdf"
+  },
+  {
+    "id": "astm-c33",
+    "number": "ASTM C33",
+    "title": "Standard Specification for Concrete Aggregates",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for fine and coarse aggregates for use in concrete.",
+    "keywords": [
+      "aggregate",
+      "sand",
+      "gravel",
+      "ASTM",
+      "fine aggregate",
+      "coarse aggregate",
+      "concrete material"
+    ],
+    "revision": 2018,
+    "department": "ASTM",
+    "applications": [
+      "Concrete Production",
+      "All Concrete Works"
+    ],
+    "relatedCodes": [
+      "ASTM C150",
+      "ACI 318",
+      "IS 383"
+    ],
+    "notes": "US standard equivalent to IS 383.",
+    "pdf": "pdfs/ASTMC33.pdf"
+  },
+  {
+    "id": "astm-a615",
+    "number": "ASTM A615",
+    "title": "Standard Specification for Deformed and Plain Carbon-Steel Bars for Concrete Reinforcement",
+    "category": "Steel",
+    "description": "Specifies requirements for deformed and plain carbon-steel bars used as reinforcement in concrete.",
+    "keywords": [
+      "rebar",
+      "steel bar",
+      "reinforcement",
+      "ASTM",
+      "Grade 60",
+      "deformed bar",
+      "US steel"
+    ],
+    "revision": 2022,
+    "department": "ASTM",
+    "applications": [
+      "RCC Structures",
+      "Buildings",
+      "Bridges"
+    ],
+    "relatedCodes": [
+      "ACI 318",
+      "IS 1786"
+    ],
+    "notes": "Grade 60 (420 MPa) is most commonly used. Equivalent to IS 1786 Fe415/Fe500.",
+    "pdf": "pdfs/ASTMA615.pdf"
+  },
+  {
+    "id": "astm-d1143",
+    "number": "ASTM D1143",
+    "title": "Standard Test Methods for Deep Foundation Elements Under Static Axial Compressive Load",
+    "category": "Foundation & Geotechnical",
+    "description": "Covers procedures for static load testing of deep foundation elements.",
+    "keywords": [
+      "pile load test",
+      "static load test",
+      "deep foundation",
+      "axial load",
+      "settlement",
+      "ASTM"
+    ],
+    "revision": 2007,
+    "department": "ASTM",
+    "applications": [
+      "Pile Load Testing",
+      "Foundation Verification"
+    ],
+    "relatedCodes": [
+      "IS 2911",
+      "ASTM D3689"
+    ],
+    "notes": "Multiple test methods including maintained load and quick load tests.",
+    "pdf": "pdfs/ASTMD1143.pdf"
+  },
+  {
+    "id": "en-1992-1",
+    "number": "EN 1992-1-1",
+    "title": "Eurocode 2: Design of Concrete Structures – General Rules and Rules for Buildings",
+    "category": "Concrete",
+    "description": "European standard for design of concrete structures covering materials, structural analysis and detailing.",
+    "keywords": [
+      "Eurocode",
+      "concrete design",
+      "European standard",
+      "EN",
+      "limit state",
+      "structural analysis"
+    ],
+    "revision": 2004,
+    "department": "CEN",
+    "applications": [
+      "All Concrete Structures in Europe",
+      "International Projects"
+    ],
+    "relatedCodes": [
+      "EN 1990",
+      "EN 1991",
+      "EN 1997"
+    ],
+    "notes": "Part of the Eurocode suite, widely referenced internationally.",
+    "pdf": "pdfs/EN1992-1-1.pdf"
+  },
+  {
+    "id": "en-1993-1",
+    "number": "EN 1993-1-1",
+    "title": "Eurocode 3: Design of Steel Structures – General Rules and Rules for Buildings",
+    "category": "Steel",
+    "description": "European standard for design of steel structures including cross-section classification and member design.",
+    "keywords": [
+      "Eurocode",
+      "steel design",
+      "European standard",
+      "structural steel",
+      "EN"
+    ],
+    "revision": 2005,
+    "department": "CEN",
+    "applications": [
+      "All Steel Structures in Europe",
+      "International Projects"
+    ],
+    "relatedCodes": [
+      "EN 1990",
+      "EN 1991",
+      "EN 1992"
+    ],
+    "notes": "Comprehensive steel design code based on limit state philosophy.",
+    "pdf": "pdfs/EN1993-1-1.pdf"
+  },
+  {
+    "id": "en-1997-1",
+    "number": "EN 1997-1",
+    "title": "Eurocode 7: Geotechnical Design – General Rules",
+    "category": "Foundation & Geotechnical",
+    "description": "European standard for geotechnical design covering foundations, retaining structures and embankments.",
+    "keywords": [
+      "Eurocode",
+      "geotechnical",
+      "foundation design",
+      "retaining wall",
+      "slope stability",
+      "EN"
+    ],
+    "revision": 2004,
+    "department": "CEN",
+    "applications": [
+      "Foundation Design",
+      "Retaining Structures",
+      "Ground Improvement"
+    ],
+    "relatedCodes": [
+      "EN 1990",
+      "EN 1992"
+    ],
+    "notes": "Introduces reliability-based approach to geotechnical design.",
+    "pdf": "pdfs/EN1997-1.pdf"
+  },
+  {
+    "id": "en-1998-1",
+    "number": "EN 1998-1",
+    "title": "Eurocode 8: Design of Structures for Earthquake Resistance – General Rules",
+    "category": "Earthquake",
+    "description": "European standard for seismic design of buildings and civil engineering works.",
+    "keywords": [
+      "Eurocode",
+      "seismic design",
+      "earthquake",
+      "EN",
+      "response spectrum",
+      "ductility"
+    ],
+    "revision": 2004,
+    "department": "CEN",
+    "applications": [
+      "Seismic Zone Buildings",
+      "Bridges in Seismic Areas"
+    ],
+    "relatedCodes": [
+      "EN 1992",
+      "EN 1993",
+      "IS 1893"
+    ],
+    "notes": "Comprehensive seismic design framework for European practice.",
+    "pdf": "pdfs/EN1998-1.pdf"
+  },
+  {
+    "id": "bs-8110-1",
+    "number": "BS 8110 Part 1",
+    "title": "Structural Use of Concrete – Code of Practice for Design and Construction",
+    "category": "Concrete",
+    "description": "British standard for structural use of concrete in buildings and civil engineering works (now superseded by Eurocode 2).",
+    "keywords": [
+      "British standard",
+      "concrete design",
+      "BS",
+      "UK",
+      "structural concrete",
+      "limit state"
+    ],
+    "revision": 1997,
+    "department": "BSI",
+    "applications": [
+      "Concrete Structures in UK",
+      "International Projects"
+    ],
+    "relatedCodes": [
+      "EN 1992",
+      "ACI 318",
+      "IS 456"
+    ],
+    "notes": "Largely replaced by Eurocode 2 (EN 1992) in UK since 2010.",
+    "pdf": "pdfs/BS8110-Part-1.pdf"
+  },
+  {
+    "id": "bs-5950-1",
+    "number": "BS 5950 Part 1",
+    "title": "Structural Use of Steelwork in Building – Code of Practice for Design",
+    "category": "Steel",
+    "description": "British standard for structural use of steelwork in buildings (now superseded by Eurocode 3).",
+    "keywords": [
+      "British standard",
+      "steel design",
+      "BS",
+      "UK",
+      "structural steel",
+      "limit state"
+    ],
+    "revision": 2000,
+    "department": "BSI",
+    "applications": [
+      "Steel Structures in UK",
+      "International Projects"
+    ],
+    "relatedCodes": [
+      "EN 1993",
+      "IS 800",
+      "ACI 318"
+    ],
+    "notes": "Superseded by Eurocode 3 (EN 1993) in UK practice.",
+    "pdf": "pdfs/BS5950-Part-1.pdf"
+  },
+  {
+    "id": "iso-9001",
+    "number": "ISO 9001",
+    "title": "Quality Management Systems – Requirements",
+    "category": "Quality Control",
+    "description": "Specifies requirements for a quality management system for organizations seeking to demonstrate consistent product/service quality.",
+    "keywords": [
+      "quality management",
+      "QMS",
+      "ISO",
+      "quality system",
+      "audit",
+      "certification",
+      "quality control"
+    ],
+    "revision": 2015,
+    "department": "ISO",
+    "applications": [
+      "Construction Companies",
+      "Consultants",
+      "Contractors",
+      "Manufacturers"
+    ],
+    "relatedCodes": [
+      "ISO 14001",
+      "ISO 45001"
+    ],
+    "notes": "Required by major clients for contractor prequalification.",
+    "pdf": "pdfs/ISO9001.pdf"
+  },
+  {
+    "id": "iso-14001",
+    "number": "ISO 14001",
+    "title": "Environmental Management Systems – Requirements with Guidance",
+    "category": "Environmental",
+    "description": "Specifies requirements for an environmental management system to improve environmental performance.",
+    "keywords": [
+      "environmental management",
+      "EMS",
+      "ISO",
+      "environmental",
+      "sustainability",
+      "green"
+    ],
+    "revision": 2015,
+    "department": "ISO",
+    "applications": [
+      "Construction Projects",
+      "Industrial Plants",
+      "Infrastructure Projects"
+    ],
+    "relatedCodes": [
+      "ISO 9001",
+      "ISO 45001"
+    ],
+    "notes": "Increasingly mandated for large infrastructure projects.",
+    "pdf": "pdfs/ISO14001.pdf"
+  },
+  {
+    "id": "iso-6707-1",
+    "number": "ISO 6707-1",
+    "title": "Buildings and Civil Engineering Works – Vocabulary – General Terms",
+    "category": "Building Planning",
+    "description": "Defines general terms used in the field of buildings and civil engineering works.",
+    "keywords": [
+      "terminology",
+      "vocabulary",
+      "civil engineering terms",
+      "ISO",
+      "definitions"
+    ],
+    "revision": 2014,
+    "department": "ISO",
+    "applications": [
+      "Technical Documentation",
+      "International Projects",
+      "Education"
+    ],
+    "relatedCodes": [
+      "IS 962"
+    ],
+    "notes": "Reference for standardized terminology in civil engineering.",
+    "pdf": "pdfs/ISO6707-1.pdf"
+  },
+  {
+    "id": "is-1893-3",
+    "number": "IS 1893 Part 3",
+    "title": "Criteria for Earthquake Resistant Design – Bridges and Retaining Walls",
+    "category": "Earthquake",
+    "description": "Specifies seismic design requirements for bridges and retaining structures.",
+    "keywords": [
+      "earthquake",
+      "seismic bridge",
+      "retaining wall seismic",
+      "bridge design",
+      "seismic zone"
+    ],
+    "revision": 2014,
+    "department": "BIS",
+    "applications": [
+      "Road Bridges in Seismic Zones",
+      "Retaining Walls",
+      "Flyovers"
+    ],
+    "relatedCodes": [
+      "IS 1893 Part 1",
+      "IRC 6",
+      "IRC 112"
+    ],
+    "notes": "Part of IS 1893 series covering specific structure types.",
+    "pdf": "pdfs/IS1893-Part-3.pdf"
+  },
+  {
+    "id": "is-808",
+    "number": "IS 808",
+    "title": "Dimensions for Hot Rolled Steel Beam, Column, Channel and Angle Sections",
+    "category": "Steel",
+    "description": "Specifies dimensions and section properties of hot rolled steel sections used in India.",
+    "keywords": [
+      "steel section",
+      "ISMB",
+      "ISMC",
+      "ISWA",
+      "ISHB",
+      "beam section",
+      "column section",
+      "angle section"
+    ],
+    "revision": 1989,
+    "department": "BIS",
+    "applications": [
+      "Steel Structure Design",
+      "Section Selection",
+      "Detailing"
+    ],
+    "relatedCodes": [
+      "IS 800",
+      "IS 2062",
+      "SP 6"
+    ],
+    "notes": "Provides standard Indian steel section designations (IS sections).",
+    "pdf": "pdfs/IS808.pdf"
+  },
+  {
+    "id": "is-4031",
+    "number": "IS 4031",
+    "title": "Methods of Physical Tests for Hydraulic Cement",
+    "category": "Construction Materials",
+    "description": "Specifies methods of tests for consistency, setting time, soundness, compressive strength of hydraulic cement.",
+    "keywords": [
+      "cement test",
+      "vicat",
+      "setting time",
+      "soundness",
+      "fineness",
+      "strength test",
+      "cement quality"
+    ],
+    "revision": 1988,
+    "department": "BIS",
+    "applications": [
+      "Cement Quality Control",
+      "Material Testing Laboratory"
+    ],
+    "relatedCodes": [
+      "IS 269",
+      "IS 8112",
+      "IS 12269"
+    ],
+    "notes": "Multi-part standard covering all cement test methods.",
+    "pdf": "pdfs/IS4031.pdf"
+  },
+  {
+    "id": "is-5816",
+    "number": "IS 5816",
+    "title": "Method of Test for Splitting Tensile Strength of Concrete Cylinder",
+    "category": "Concrete",
+    "description": "Specifies the split cylinder test method for determining tensile strength of concrete.",
+    "keywords": [
+      "splitting tensile",
+      "tensile strength",
+      "concrete",
+      "cylinder test",
+      "split test"
+    ],
+    "revision": 1999,
+    "department": "BIS",
+    "applications": [
+      "Concrete Characterization",
+      "Research",
+      "Quality Control"
+    ],
+    "relatedCodes": [
+      "IS 516",
+      "IS 456"
+    ],
+    "notes": "Also called Brazilian test. Indirect measure of concrete tensile strength.",
+    "pdf": "pdfs/IS5816.pdf"
+  },
+  {
+    "id": "is-13311-1",
+    "number": "IS 13311 Part 1",
+    "title": "Method of Non-Destructive Testing of Concrete – Ultrasonic Pulse Velocity",
+    "category": "Concrete",
+    "description": "Specifies use of ultrasonic pulse velocity (UPV) method for assessing concrete quality non-destructively.",
+    "keywords": [
+      "NDT",
+      "non destructive test",
+      "ultrasonic",
+      "UPV",
+      "concrete quality",
+      "pulse velocity"
+    ],
+    "revision": 1992,
+    "department": "BIS",
+    "applications": [
+      "Existing Structure Evaluation",
+      "Quality Control",
+      "Crack Detection"
+    ],
+    "relatedCodes": [
+      "IS 13311 Part 2",
+      "IS 456",
+      "IS 516"
+    ],
+    "notes": "UPV test assesses uniformity and relative quality of concrete.",
+    "pdf": "pdfs/IS13311-Part-1.pdf"
+  },
+  {
+    "id": "is-13311-2",
+    "number": "IS 13311 Part 2",
+    "title": "Method of Non-Destructive Testing of Concrete – Rebound Hammer",
+    "category": "Concrete",
+    "description": "Specifies use of rebound hammer (Schmidt hammer) for non-destructive estimation of concrete strength.",
+    "keywords": [
+      "rebound hammer",
+      "Schmidt hammer",
+      "NDT",
+      "non destructive",
+      "concrete strength estimation"
+    ],
+    "revision": 1992,
+    "department": "BIS",
+    "applications": [
+      "In-situ Strength Assessment",
+      "Existing Structures",
+      "Quality Control"
+    ],
+    "relatedCodes": [
+      "IS 13311 Part 1",
+      "IS 456",
+      "IS 516"
+    ],
+    "notes": "Quick and inexpensive but less accurate than core testing.",
+    "pdf": "pdfs/IS13311-Part-2.pdf"
+  },
+  {
+    "id": "is-14593",
+    "number": "IS 14593",
+    "title": "Ready Mixed Concrete – Determination of Fresh Concrete Workability by Flow Table",
+    "category": "Concrete",
+    "description": "Specifies flow table test method for determining workability of fresh concrete.",
+    "keywords": [
+      "flow table",
+      "workability",
+      "fresh concrete",
+      "slump flow",
+      "SCC"
+    ],
+    "revision": 1999,
+    "department": "BIS",
+    "applications": [
+      "Self Compacting Concrete",
+      "High Workability Concrete"
+    ],
+    "relatedCodes": [
+      "IS 1199",
+      "IS 456",
+      "IS 4926"
+    ],
+    "notes": "Used for concrete with very high workability where slump test is inadequate.",
+    "pdf": "pdfs/IS14593.pdf"
+  },
+  {
+    "id": "is-2204",
+    "number": "IS 2204",
+    "title": "Construction of Floor and Roof with Joists and Filler Blocks",
+    "category": "Building Planning",
+    "description": "Code of practice for construction of floors and roofs using precast joists and filler blocks.",
+    "keywords": [
+      "filler slab",
+      "joist",
+      "filler block",
+      "hollow block",
+      "ribbed slab",
+      "waffle slab"
+    ],
+    "revision": 1962,
+    "department": "BIS",
+    "applications": [
+      "Residential Floors",
+      "Commercial Floors",
+      "Lightweight Slab Construction"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "NBC 2016"
+    ],
+    "notes": "Economical slab construction method using precast elements.",
+    "pdf": "pdfs/IS2204.pdf"
+  },
+  {
+    "id": "is-3025",
+    "number": "IS 3025",
+    "title": "Methods of Sampling and Test for Water Used in Industry",
+    "category": "Water Supply",
+    "description": "Specifies methods of sampling and testing water used in industries.",
+    "keywords": [
+      "water test",
+      "water quality",
+      "industrial water",
+      "sampling",
+      "pH",
+      "hardness",
+      "water analysis"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Water Quality Testing",
+      "Concrete Mix Water",
+      "Industrial Processes"
+    ],
+    "relatedCodes": [
+      "IS 10500",
+      "IS 456"
+    ],
+    "notes": "IS 456 requires water used in concrete to meet IS 3025 requirements.",
+    "pdf": "pdfs/IS3025.pdf"
+  },
+  {
+    "id": "is-456-appendix",
+    "number": "IS 3812",
+    "title": "Fly Ash for Use as Pozzolana and Admixture – Specification",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for fly ash used as pozzolana in cement and concrete.",
+    "keywords": [
+      "fly ash",
+      "pozzolana",
+      "admixture",
+      "supplementary cementitious",
+      "SCM",
+      "blended concrete"
+    ],
+    "revision": 2003,
+    "department": "BIS",
+    "applications": [
+      "High Volume Fly Ash Concrete",
+      "Geopolymer Concrete",
+      "Embankments"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 1489",
+      "IS 10262"
+    ],
+    "notes": "Fly ash replacement up to 35% allowed in concrete as per IS 456.",
+    "pdf": "pdfs/IS3812.pdf"
+  },
+  {
+    "id": "is-516-2",
+    "number": "IS 14858",
+    "title": "Compression Testing Machines – Requirements",
+    "category": "Quality Control",
+    "description": "Specifies requirements for compression testing machines used for testing construction materials.",
+    "keywords": [
+      "compression testing",
+      "CTM",
+      "concrete cube testing",
+      "calibration",
+      "testing machine"
+    ],
+    "revision": 2000,
+    "department": "BIS",
+    "applications": [
+      "Material Testing Laboratories",
+      "Site Testing"
+    ],
+    "relatedCodes": [
+      "IS 516",
+      "IS 3495"
+    ],
+    "notes": "Calibration of CTM is essential for accurate strength results.",
+    "pdf": "pdfs/IS14858.pdf"
+  },
+  {
+    "id": "irc-86",
+    "number": "IRC 86",
+    "title": "Geometric Design Standards for Urban Roads",
+    "category": "Transportation & Highway",
+    "description": "Provides geometric design standards for urban roads including lane widths, medians, footpaths and parking.",
+    "keywords": [
+      "urban road",
+      "geometric design",
+      "lane width",
+      "median",
+      "footpath",
+      "parking",
+      "road cross section"
+    ],
+    "revision": 1983,
+    "department": "IRC",
+    "applications": [
+      "Urban Road Design",
+      "City Roads",
+      "Arterial Roads"
+    ],
+    "relatedCodes": [
+      "IRC 73",
+      "IRC 103",
+      "IRC 70"
+    ],
+    "notes": "Design standards differ from rural roads due to pedestrian and mixed traffic.",
+    "pdf": "pdfs/IRC86.pdf"
+  },
+  {
+    "id": "irc-sp-84",
+    "number": "IRC SP 84",
+    "title": "Manual of Specifications and Standards for Expressways",
+    "category": "Transportation & Highway",
+    "description": "Comprehensive specifications and standards for design and construction of expressways.",
+    "keywords": [
+      "expressway",
+      "highway specification",
+      "access controlled road",
+      "toll road",
+      "national expressway"
+    ],
+    "revision": 2014,
+    "department": "IRC",
+    "applications": [
+      "National Expressway Design",
+      "Greenfield Highways"
+    ],
+    "relatedCodes": [
+      "IRC 37",
+      "IRC 73",
+      "IRC 58"
+    ],
+    "notes": "Covers geometric, pavement, bridge and safety requirements for expressways.",
+    "pdf": "pdfs/IRCSP-84.pdf"
+  },
+  {
+    "id": "is-1893-2",
+    "number": "IS 1893 Part 2",
+    "title": "Criteria for Earthquake Resistant Design – Liquid Retaining Tanks",
+    "category": "Earthquake",
+    "description": "Specifies seismic design requirements for liquid retaining tanks and vessels.",
+    "keywords": [
+      "seismic tank",
+      "earthquake tank",
+      "liquid tank",
+      "impulsive",
+      "convective",
+      "sloshing"
+    ],
+    "revision": 2014,
+    "department": "BIS",
+    "applications": [
+      "Water Tanks in Seismic Zones",
+      "Chemical Storage Tanks"
+    ],
+    "relatedCodes": [
+      "IS 1893 Part 1",
+      "IS 3370",
+      "IS 456"
+    ],
+    "notes": "Accounts for impulsive and convective forces due to liquid sloshing.",
+    "pdf": "pdfs/IS1893-Part-2.pdf"
+  },
+  {
+    "id": "is-15988",
+    "number": "IS 15988",
+    "title": "Seismic Evaluation and Strengthening of Existing Reinforced Concrete Buildings",
+    "category": "Earthquake",
+    "description": "Guidelines for seismic evaluation and retrofit of existing RC buildings.",
+    "keywords": [
+      "seismic retrofit",
+      "strengthening",
+      "existing building",
+      "earthquake",
+      "assessment",
+      "vulnerability"
+    ],
+    "revision": 2013,
+    "department": "BIS",
+    "applications": [
+      "Old Building Retrofit",
+      "Heritage Structure Strengthening",
+      "Post-Earthquake Repair"
+    ],
+    "relatedCodes": [
+      "IS 1893",
+      "IS 13920",
+      "IS 456"
+    ],
+    "notes": "Important for upgrading pre-code buildings to meet current seismic requirements.",
+    "pdf": "pdfs/IS15988.pdf"
+  },
+  {
+    "id": "is-6527",
+    "number": "IS 6527",
+    "title": "Specification for Precast Concrete Paving Blocks",
+    "category": "Transportation & Highway",
+    "description": "Specifies requirements for precast concrete paving blocks used in pedestrian and light vehicular areas.",
+    "keywords": [
+      "paving block",
+      "interlocking block",
+      "concrete paver",
+      "footpath",
+      "pedestrian",
+      "pavement block"
+    ],
+    "revision": 1972,
+    "department": "BIS",
+    "applications": [
+      "Pedestrian Areas",
+      "Parking Lots",
+      "Low Traffic Roads",
+      "Parks"
+    ],
+    "relatedCodes": [
+      "IRC 58",
+      "NBC 2016"
+    ],
+    "notes": "Increasingly used for urban paving due to permeability benefits.",
+    "pdf": "pdfs/IS6527.pdf"
+  },
+  {
+    "id": "is-1730",
+    "number": "IS 1730",
+    "title": "Dimensions for Steel Plates, Sheets, Strips and Flats for General Engineering Purposes",
+    "category": "Steel",
+    "description": "Specifies standard dimensions for steel plates, sheets and strips for engineering applications.",
+    "keywords": [
+      "steel plate",
+      "steel sheet",
+      "steel flat",
+      "dimensions",
+      "thickness",
+      "structural steel"
+    ],
+    "revision": 1989,
+    "department": "BIS",
+    "applications": [
+      "Fabrication",
+      "Steel Structures",
+      "Gusset Plates"
+    ],
+    "relatedCodes": [
+      "IS 2062",
+      "IS 800"
+    ],
+    "notes": "Standard thickness series for procurement and design reference.",
+    "pdf": "pdfs/IS1730.pdf"
+  },
+  {
+    "id": "is-4923",
+    "number": "IS 4923",
+    "title": "Hollow Steel Sections for Structural Use – Specification",
+    "category": "Steel",
+    "description": "Specifies requirements for cold and hot formed hollow steel sections (tubes) for structural use.",
+    "keywords": [
+      "hollow section",
+      "RHS",
+      "SHS",
+      "CHS",
+      "tube",
+      "structural tube",
+      "square hollow section"
+    ],
+    "revision": 1997,
+    "department": "BIS",
+    "applications": [
+      "Space Frames",
+      "Columns",
+      "Trusses",
+      "Architectural Structures"
+    ],
+    "relatedCodes": [
+      "IS 800",
+      "IS 2062"
+    ],
+    "notes": "RHS, SHS and CHS sections with better aesthetic and torsional properties.",
+    "pdf": "pdfs/IS4923.pdf"
+  },
+  {
+    "id": "is-15916",
+    "number": "IS 15916",
+    "title": "Building Design and Construction – Accessibility and Usability of Built Environment",
+    "category": "Building Planning",
+    "description": "Specifies requirements for accessibility of buildings for persons with disabilities.",
+    "keywords": [
+      "accessibility",
+      "disabled",
+      "wheelchair",
+      "ramp",
+      "barrier free",
+      "universal design",
+      "PwD"
+    ],
+    "revision": 2010,
+    "department": "BIS",
+    "applications": [
+      "All Public Buildings",
+      "Government Buildings",
+      "Hospitals",
+      "Educational Buildings"
+    ],
+    "relatedCodes": [
+      "NBC 2016",
+      "SP 7"
+    ],
+    "notes": "Mandated by Rights of Persons with Disabilities Act 2016.",
+    "pdf": "pdfs/IS15916.pdf"
+  },
+  {
+    "id": "is-3764",
+    "number": "IS 3764",
+    "title": "Safety Code for Excavation Work",
+    "category": "Construction Management",
+    "description": "Provides safety requirements for excavation work in construction projects.",
+    "keywords": [
+      "excavation",
+      "safety",
+      "trench",
+      "shoring",
+      "slope protection",
+      "construction safety"
+    ],
+    "revision": 1992,
+    "department": "BIS",
+    "applications": [
+      "Foundation Excavation",
+      "Underground Works",
+      "Pipeline Trenches"
+    ],
+    "relatedCodes": [
+      "IS 3696",
+      "IS 4082"
+    ],
+    "notes": "Critical for preventing excavation collapses and worker safety.",
+    "pdf": "pdfs/IS3764.pdf"
+  },
+  {
+    "id": "is-9399",
+    "number": "IS 9399",
+    "title": "Specification for Prestressing Anchorages",
+    "category": "Prestressed Concrete",
+    "description": "Specifies requirements for anchorage systems used in prestressed concrete construction.",
+    "keywords": [
+      "prestress anchorage",
+      "post-tension anchor",
+      "tendon",
+      "anchor block",
+      "prestressing"
+    ],
+    "revision": 1979,
+    "department": "BIS",
+    "applications": [
+      "Post-tensioned Bridges",
+      "Prestressed Concrete Structures"
+    ],
+    "relatedCodes": [
+      "IS 1343",
+      "IS 6006"
+    ],
+    "notes": "Covers both internal and external tendon anchorage systems.",
+    "pdf": "pdfs/IS9399.pdf"
+  },
+  {
+    "id": "is-6006",
+    "number": "IS 6006",
+    "title": "Specification for Uncoated Stress Relieved Strand for Prestressed Concrete",
+    "category": "Prestressed Concrete",
+    "description": "Specifies requirements for high tensile steel strands used in prestressed concrete.",
+    "keywords": [
+      "strand",
+      "tendon",
+      "prestress wire",
+      "high tensile",
+      "prestressed concrete",
+      "7-wire strand"
+    ],
+    "revision": 1983,
+    "department": "BIS",
+    "applications": [
+      "Post-tensioned Bridges",
+      "Prestressed Girders",
+      "Nuclear Structures"
+    ],
+    "relatedCodes": [
+      "IS 1343",
+      "IS 9399"
+    ],
+    "notes": "7-wire strand is most commonly used prestressing tendon.",
+    "pdf": "pdfs/IS6006.pdf"
+  },
+  {
+    "id": "irc-56",
+    "number": "IRC 56",
+    "title": "Recommended Practice for Treatment of Embankment and Road Formation",
+    "category": "Transportation & Highway",
+    "description": "Covers treatment and construction methods for road embankments and formation.",
+    "keywords": [
+      "embankment",
+      "road formation",
+      "subgrade",
+      "fill",
+      "compaction",
+      "earthwork"
+    ],
+    "revision": 2011,
+    "department": "IRC",
+    "applications": [
+      "Highway Embankments",
+      "Road Subgrade Construction"
+    ],
+    "relatedCodes": [
+      "IRC 37",
+      "IRC 73"
+    ],
+    "notes": "Specifies compaction standards and material requirements for embankments.",
+    "pdf": "pdfs/IRC56.pdf"
+  },
+  {
+    "id": "is-7861-1",
+    "number": "IS 7861 Part 1",
+    "title": "Code of Practice for Extreme Weather Concreting – Concreting in Hot Weather",
+    "category": "Concrete",
+    "description": "Covers precautions and practices for concreting in hot and dry weather conditions.",
+    "keywords": [
+      "hot weather concrete",
+      "temperature",
+      "precaution",
+      "concreting",
+      "rapid evaporation",
+      "retarder"
+    ],
+    "revision": 1975,
+    "department": "BIS",
+    "applications": [
+      "Summer Concreting",
+      "Arid Climate Construction",
+      "Middle East Projects"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 7861 Part 2",
+      "IS 9103"
+    ],
+    "notes": "India's hot climate makes this standard important for quality concrete.",
+    "pdf": "pdfs/IS7861-Part-1.pdf"
+  },
+  {
+    "id": "is-7861-2",
+    "number": "IS 7861 Part 2",
+    "title": "Code of Practice for Extreme Weather Concreting – Concreting in Cold Weather",
+    "category": "Concrete",
+    "description": "Covers precautions and practices for concreting in cold weather conditions to prevent freezing damage.",
+    "keywords": [
+      "cold weather concrete",
+      "winter concreting",
+      "frost",
+      "heating",
+      "insulation",
+      "temperature"
+    ],
+    "revision": 1981,
+    "department": "BIS",
+    "applications": [
+      "Himalayan Construction",
+      "Winter Concreting"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 7861 Part 1"
+    ],
+    "notes": "Important for high altitude and northern Indian construction sites.",
+    "pdf": "pdfs/IS7861-Part-2.pdf"
+  },
+  {
+    "id": "is-8329",
+    "number": "IS 8329",
+    "title": "Centrifugally Cast (Spun) Ductile Iron Pressure Pipes – Specification",
+    "category": "Water Supply",
+    "description": "Specifies requirements for ductile iron pipes used in water supply and sewerage systems.",
+    "keywords": [
+      "ductile iron pipe",
+      "DI pipe",
+      "water main",
+      "pressure pipe",
+      "water supply pipe"
+    ],
+    "revision": 2000,
+    "department": "BIS",
+    "applications": [
+      "Water Distribution Networks",
+      "High Pressure Water Mains"
+    ],
+    "relatedCodes": [
+      "IS 1172",
+      "IS 10500"
+    ],
+    "notes": "DI pipes are replacing cast iron pipes due to better strength and durability.",
+    "pdf": "pdfs/IS8329.pdf"
+  },
+  {
+    "id": "is-1239",
+    "number": "IS 1239",
+    "title": "Mild Steel Tubes, Tubulars and Other Wrought Steel Fittings – Specification",
+    "category": "Water Supply",
+    "description": "Specifies requirements for mild steel tubes and fittings for water, gas and sanitary services.",
+    "keywords": [
+      "MS pipe",
+      "GI pipe",
+      "mild steel tube",
+      "water pipe",
+      "galvanized pipe",
+      "plumbing"
+    ],
+    "revision": 2004,
+    "department": "BIS",
+    "applications": [
+      "Plumbing",
+      "Water Distribution",
+      "Gas Supply",
+      "Structural Tubes"
+    ],
+    "relatedCodes": [
+      "IS 1172",
+      "IS 1742"
+    ],
+    "notes": "GI pipes most common for domestic water supply.",
+    "pdf": "pdfs/IS1239.pdf"
+  },
+  {
+    "id": "is-15477",
+    "number": "IS 15477",
+    "title": "Plastics Piping System for Soil and Waste Discharge – UPVC",
+    "category": "Wastewater",
+    "description": "Specifies requirements for UPVC pipes and fittings for soil and waste discharge applications.",
+    "keywords": [
+      "UPVC pipe",
+      "drainage pipe",
+      "SWR pipe",
+      "plastic pipe",
+      "soil discharge",
+      "sewage pipe"
+    ],
+    "revision": 2004,
+    "department": "BIS",
+    "applications": [
+      "Building Drainage",
+      "Sewer Networks",
+      "Stormwater"
+    ],
+    "relatedCodes": [
+      "IS 1742",
+      "IS 4111"
+    ],
+    "notes": "Lightweight, corrosion-resistant alternative to CI pipes for drainage.",
+    "pdf": "pdfs/IS15477.pdf"
+  },
+  {
+    "id": "is-14665-1",
+    "number": "IS 14665 Part 1",
+    "title": "Electric Traction Lifts – Code of Practice",
+    "category": "Building Planning",
+    "description": "Covers requirements for planning, design and installation of electric traction lifts in buildings.",
+    "keywords": [
+      "lift",
+      "elevator",
+      "escalator",
+      "vertical transport",
+      "building lift",
+      "traction"
+    ],
+    "revision": 2000,
+    "department": "BIS",
+    "applications": [
+      "High Rise Buildings",
+      "Commercial Buildings",
+      "Hospitals"
+    ],
+    "relatedCodes": [
+      "NBC 2016",
+      "IS 15916"
+    ],
+    "notes": "Mandatory for buildings above certain heights as per NBC.",
+    "pdf": "pdfs/IS14665-Part-1.pdf"
+  },
+  {
+    "id": "is-1166",
+    "number": "IS 1166",
+    "title": "Bitumen Felts for Waterproofing and Damp Proofing – Specification",
+    "category": "Building Planning",
+    "description": "Specifies requirements for bitumen felts used for waterproofing roofs, basements and damp proofing.",
+    "keywords": [
+      "waterproofing",
+      "bitumen felt",
+      "DPC",
+      "damp proof course",
+      "roofing",
+      "membrane"
+    ],
+    "revision": 1973,
+    "department": "BIS",
+    "applications": [
+      "Roof Waterproofing",
+      "Basement Waterproofing",
+      "DPC"
+    ],
+    "relatedCodes": [
+      "IS 2645",
+      "NBC 2016"
+    ],
+    "notes": "Essential for watertight construction.",
+    "pdf": "pdfs/IS1166.pdf"
+  },
+  {
+    "id": "is-2645",
+    "number": "IS 2645",
+    "title": "Specification for Integral Cement Waterproofing Compounds",
+    "category": "Concrete",
+    "description": "Specifies requirements for integral waterproofing compounds added to cement concrete and mortar.",
+    "keywords": [
+      "waterproofing",
+      "integral waterproofing",
+      "admixture",
+      "watertight concrete",
+      "waterproof compound"
+    ],
+    "revision": 2003,
+    "department": "BIS",
+    "applications": [
+      "Water Retaining Structures",
+      "Basement Construction",
+      "Roof Slab"
+    ],
+    "relatedCodes": [
+      "IS 9103",
+      "IS 456",
+      "IS 1166"
+    ],
+    "notes": "Integral compounds reduce permeability of concrete.",
+    "pdf": "pdfs/IS2645.pdf"
+  },
+  {
+    "id": "is-1077-2",
+    "number": "IS 12894",
+    "title": "Pulverized Fuel Ash – Lime Products – Specification",
+    "category": "Construction Materials",
+    "description": "Specification for fly ash lime products used as building materials.",
+    "keywords": [
+      "fly ash brick",
+      "AAC block",
+      "autoclaved",
+      "lightweight block",
+      "fly ash product"
+    ],
+    "revision": 2002,
+    "department": "BIS",
+    "applications": [
+      "Wall Construction",
+      "Partition Walls",
+      "Non-structural Members"
+    ],
+    "relatedCodes": [
+      "IS 1077",
+      "IS 1905"
+    ],
+    "notes": "Eco-friendly alternative to clay bricks using industrial byproduct.",
+    "pdf": "pdfs/IS12894.pdf"
+  },
+  {
+    "id": "is-2185-1",
+    "number": "IS 2185 Part 1",
+    "title": "Concrete Masonry Units – Hollow and Solid Concrete Blocks",
+    "category": "Masonry",
+    "description": "Specifies requirements for hollow and solid load-bearing and non-load-bearing concrete blocks.",
+    "keywords": [
+      "concrete block",
+      "hollow block",
+      "masonry unit",
+      "CMU",
+      "solid block",
+      "block masonry"
+    ],
+    "revision": 2005,
+    "department": "BIS",
+    "applications": [
+      "Wall Construction",
+      "Partition Walls",
+      "Load Bearing Walls"
+    ],
+    "relatedCodes": [
+      "IS 1905",
+      "IS 2250",
+      "IS 456"
+    ],
+    "notes": "Faster construction than brick masonry with larger block sizes.",
+    "pdf": "pdfs/IS2185-Part-1.pdf"
+  },
+  {
+    "id": "is-12118",
+    "number": "IS 12118",
+    "title": "Specification for Two-Part Polysulphide Based Sealants",
+    "category": "Building Planning",
+    "description": "Specifies requirements for polysulphide sealants used for joints in construction.",
+    "keywords": [
+      "sealant",
+      "joint seal",
+      "polysulphide",
+      "expansion joint",
+      "construction joint",
+      "sealing"
+    ],
+    "revision": 1987,
+    "department": "BIS",
+    "applications": [
+      "Expansion Joints",
+      "Precast Panel Joints",
+      "Waterproofing Joints"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "NBC 2016"
+    ],
+    "notes": "Essential for sealing movement joints in concrete structures.",
+    "pdf": "pdfs/IS12118.pdf"
+  },
+  {
+    "id": "is-5525",
+    "number": "IS 5525",
+    "title": "Recommendations for Detailing of Reinforcement in Reinforced Concrete Works",
+    "category": "Concrete",
+    "description": "Provides recommendations for detailing of reinforcement including lap lengths, hooks and bends.",
+    "keywords": [
+      "detailing",
+      "reinforcement",
+      "lap length",
+      "hook",
+      "bend",
+      "cover",
+      "development length"
+    ],
+    "revision": 1969,
+    "department": "BIS",
+    "applications": [
+      "RCC Detailing",
+      "Bar Bending",
+      "Construction Drawings"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "SP 34",
+      "IS 1786"
+    ],
+    "notes": "Practical guidance on placing reinforcement in RCC members.",
+    "pdf": "pdfs/IS5525.pdf"
+  },
+  {
+    "id": "astm-e119",
+    "number": "ASTM E119",
+    "title": "Standard Test Methods for Fire Tests of Building Construction and Materials",
+    "category": "Fire Safety",
+    "description": "Covers procedures for fire resistance testing of building assemblies and materials.",
+    "keywords": [
+      "fire test",
+      "fire resistance",
+      "fire rating",
+      "ASTM",
+      "fire safety",
+      "structural fire"
+    ],
+    "revision": 2022,
+    "department": "ASTM",
+    "applications": [
+      "Building Materials Testing",
+      "Fire Safety Compliance",
+      "Rating of Assemblies"
+    ],
+    "relatedCodes": [
+      "IS 1641",
+      "NBC 2016"
+    ],
+    "notes": "Standard fire exposure curve used as basis for fire resistance ratings.",
+    "pdf": "pdfs/ASTME119.pdf"
+  },
+  {
+    "id": "is-2386-3",
+    "number": "IS 2386 Part 3",
+    "title": "Methods of Test for Aggregates – Specific Gravity, Density, Absorption and Bulking of Sand",
+    "category": "Construction Materials",
+    "description": "Specifies tests for specific gravity, bulk density, water absorption and bulking of aggregates.",
+    "keywords": [
+      "specific gravity",
+      "absorption",
+      "bulking",
+      "density",
+      "aggregate test",
+      "sand test"
+    ],
+    "revision": 1963,
+    "department": "BIS",
+    "applications": [
+      "Aggregate Quality Testing",
+      "Concrete Mix Design"
+    ],
+    "relatedCodes": [
+      "IS 383",
+      "IS 10262",
+      "IS 2386 Part 1"
+    ],
+    "notes": "Used in concrete mix design for moisture correction calculations.",
+    "pdf": "pdfs/IS2386-Part-3.pdf"
+  },
+  {
+    "id": "irc-17",
+    "number": "IRC 17",
+    "title": "Tentative Specifications for Sub-bases for Flexible Pavement",
+    "category": "Transportation & Highway",
+    "description": "Specifies requirements for sub-base materials and construction for flexible pavements.",
+    "keywords": [
+      "sub-base",
+      "WBM",
+      "granular sub-base",
+      "pavement layers",
+      "road sub-base",
+      "flexible pavement"
+    ],
+    "revision": 1965,
+    "department": "IRC",
+    "applications": [
+      "Highway Construction",
+      "Pavement Layers",
+      "Road Sub-base"
+    ],
+    "relatedCodes": [
+      "IRC 37",
+      "IRC 73"
+    ],
+    "notes": "Granular sub-base (GSB) is the primary sub-base type used in India.",
+    "pdf": "pdfs/IRC17.pdf"
+  },
+  {
+    "id": "is-11592",
+    "number": "IS 11592",
+    "title": "Selection and Design of Belt Conveyors – Code of Practice",
+    "category": "Construction Management",
+    "description": "Provides guidelines for selection, design and operation of belt conveyors in construction and industry.",
+    "keywords": [
+      "belt conveyor",
+      "material handling",
+      "conveyor design",
+      "aggregate transport"
+    ],
+    "revision": 2000,
+    "department": "BIS",
+    "applications": [
+      "Concrete Batching Plants",
+      "Aggregate Handling",
+      "Mining"
+    ],
+    "relatedCodes": [
+      "IS 4082"
+    ],
+    "notes": "Used in aggregate handling at concrete plants and construction sites.",
+    "pdf": "pdfs/IS11592.pdf"
+  },
+  {
+    "id": "is-3025-58",
+    "number": "IS 3025 Part 58",
+    "title": "Methods of Sampling and Test for Water – Chlorides",
+    "category": "Water Supply",
+    "description": "Specifies test method for determination of chloride content in water samples.",
+    "keywords": [
+      "chloride test",
+      "water test",
+      "chloride content",
+      "water quality",
+      "saline"
+    ],
+    "revision": 2006,
+    "department": "BIS",
+    "applications": [
+      "Water Quality Assessment",
+      "Concrete Mix Water Testing"
+    ],
+    "relatedCodes": [
+      "IS 10500",
+      "IS 3025",
+      "IS 456"
+    ],
+    "notes": "High chloride in mixing water can cause corrosion of steel reinforcement.",
+    "pdf": "pdfs/IS3025-Part-58.pdf"
+  },
+  {
+    "id": "is-14179-1",
+    "number": "IS 14179 Part 1",
+    "title": "Recommendation for Design and Construction of Underground Structures",
+    "category": "Tunnel",
+    "description": "Provides recommendations for design and construction of underground structures and tunnels.",
+    "keywords": [
+      "tunnel",
+      "underground",
+      "excavation",
+      "lining",
+      "NATM",
+      "rock tunnel",
+      "soil tunnel"
+    ],
+    "revision": 1994,
+    "department": "BIS",
+    "applications": [
+      "Road Tunnels",
+      "Railway Tunnels",
+      "Metro Tunnels",
+      "Water Tunnels"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 2911",
+      "IS 3764"
+    ],
+    "notes": "India's tunneling activity increasing with metro and highway projects.",
+    "pdf": "pdfs/IS14179-Part-1.pdf"
+  },
+  {
+    "id": "irc-sp-54",
+    "number": "IRC SP 54",
+    "title": "Project Preparation Manual for Bridges",
+    "category": "Bridge",
+    "description": "Manual for preparation of project reports and DPR for road bridge projects.",
+    "keywords": [
+      "bridge DPR",
+      "project report",
+      "bridge planning",
+      "feasibility",
+      "bridge project"
+    ],
+    "revision": 2000,
+    "department": "IRC",
+    "applications": [
+      "Bridge Project Planning",
+      "DPR Preparation",
+      "Bridge Feasibility"
+    ],
+    "relatedCodes": [
+      "IRC 6",
+      "IRC 78",
+      "IRC 112"
+    ],
+    "notes": "Used for preparation of detailed project reports for bridge construction.",
+    "pdf": "pdfs/IRCSP-54.pdf"
+  },
+  {
+    "id": "is-2911-4",
+    "number": "IS 2911 Part 4",
+    "title": "Load Testing of Piles",
+    "category": "Foundation & Geotechnical",
+    "description": "Specifies procedures for load testing of pile foundations to verify design capacity.",
+    "keywords": [
+      "pile load test",
+      "static pile test",
+      "load testing",
+      "pile capacity",
+      "settlement",
+      "pile test"
+    ],
+    "revision": 1985,
+    "department": "BIS",
+    "applications": [
+      "Pile Foundation Verification",
+      "Construction Quality"
+    ],
+    "relatedCodes": [
+      "IS 2911 Part 1",
+      "IS 6403"
+    ],
+    "notes": "Maintained load test and cyclic load test procedures covered.",
+    "pdf": "pdfs/IS2911-Part-4.pdf"
+  },
+  {
+    "id": "is-875-6",
+    "number": "IS 4995 Part 1",
+    "title": "Criteria for Design of Reinforced Concrete Bins and Silos – Assessment of Loads",
+    "category": "Structural Engineering",
+    "description": "Covers assessment of loads including bulk solid pressure for design of silos and bins.",
+    "keywords": [
+      "silo",
+      "bin",
+      "grain storage",
+      "bulk solid",
+      "pressure",
+      "RCC silo"
+    ],
+    "revision": 1974,
+    "department": "BIS",
+    "applications": [
+      "Grain Silos",
+      "Cement Silos",
+      "Industrial Storage"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 875"
+    ],
+    "notes": "Hopper pressure calculations critical for silo design.",
+    "pdf": "pdfs/IS4995-Part-1.pdf"
+  },
+  {
+    "id": "is-13920-b",
+    "number": "IS 16172",
+    "title": "Reinforcement Couplers for Mechanical Splices of Bars in Concrete",
+    "category": "Concrete",
+    "description": "Specifies requirements for mechanical couplers used to splice reinforcing bars in concrete.",
+    "keywords": [
+      "coupler",
+      "mechanical splice",
+      "rebar coupler",
+      "bar splice",
+      "reinforcement joint"
+    ],
+    "revision": 2014,
+    "department": "BIS",
+    "applications": [
+      "High Rise Buildings",
+      "Seismic Zones",
+      "Column Lap Replacement"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 1786",
+      "IS 13920"
+    ],
+    "notes": "Threaded couplers eliminate need for lap splices in congested areas.",
+    "pdf": "pdfs/IS16172.pdf"
+  },
+  {
+    "id": "is-7215",
+    "number": "IS 7215",
+    "title": "Tolerances for Fabrication of Steel Structures",
+    "category": "Steel",
+    "description": "Specifies dimensional tolerances for fabrication of steel structures and components.",
+    "keywords": [
+      "tolerance",
+      "fabrication",
+      "steel structure",
+      "dimensional tolerance",
+      "quality control"
+    ],
+    "revision": 1974,
+    "department": "BIS",
+    "applications": [
+      "Steel Structure Fabrication",
+      "Workshop Quality Control"
+    ],
+    "relatedCodes": [
+      "IS 800",
+      "IS 2062",
+      "IS 816"
+    ],
+    "notes": "Essential for ensuring fit-up quality of steel structural connections.",
+    "pdf": "pdfs/IS7215.pdf"
+  },
+  {
+    "id": "irc-24",
+    "number": "IRC 24",
+    "title": "Standard Specifications and Code of Practice for Road Bridges – Steel Road Bridges",
+    "category": "Bridge",
+    "description": "Code of practice for design of steel road bridges.",
+    "keywords": [
+      "steel bridge",
+      "road bridge",
+      "bridge girder",
+      "truss bridge",
+      "plate girder"
+    ],
+    "revision": 2010,
+    "department": "IRC",
+    "applications": [
+      "Long Span Steel Bridges",
+      "Rail-Road Bridges",
+      "Plate Girder Bridges"
+    ],
+    "relatedCodes": [
+      "IRC 6",
+      "IRC 78",
+      "IS 800"
+    ],
+    "notes": "Covers design of plate girder, truss and composite steel bridges.",
+    "pdf": "pdfs/IRC24.pdf"
+  },
+  {
+    "id": "is-6396",
+    "number": "IS 6396",
+    "title": "Steel Reinforcement – Testing Procedures",
+    "category": "Steel",
+    "description": "Specifies testing procedures for steel reinforcement bars including tension, bend and rebend tests.",
+    "keywords": [
+      "rebar test",
+      "tension test",
+      "bend test",
+      "rebend test",
+      "steel reinforcement test"
+    ],
+    "revision": 2000,
+    "department": "BIS",
+    "applications": [
+      "Quality Control of Reinforcing Steel",
+      "Acceptance Testing"
+    ],
+    "relatedCodes": [
+      "IS 1786",
+      "IS 432"
+    ],
+    "notes": "Ensures rebar meets minimum strength and ductility requirements.",
+    "pdf": "pdfs/IS6396.pdf"
+  },
+  {
+    "id": "is-14687",
+    "number": "IS 14687",
+    "title": "False/Raised Flooring Systems – Guidelines",
+    "category": "Building Planning",
+    "description": "Provides guidelines for design and installation of false flooring systems in buildings.",
+    "keywords": [
+      "raised floor",
+      "false floor",
+      "access floor",
+      "data center",
+      "IT room",
+      "raised flooring"
+    ],
+    "revision": 1999,
+    "department": "BIS",
+    "applications": [
+      "Data Centers",
+      "IT Offices",
+      "Command Centers"
+    ],
+    "relatedCodes": [
+      "NBC 2016"
+    ],
+    "notes": "Essential for buildings requiring under-floor cable and HVAC management.",
+    "pdf": "pdfs/IS14687.pdf"
+  },
+  {
+    "id": "is-2204-b",
+    "number": "IS 11447",
+    "title": "Code of Practice for Construction with Large Precast Concrete Panels",
+    "category": "Concrete",
+    "description": "Provides guidelines for construction using large precast concrete panels for floors and walls.",
+    "keywords": [
+      "precast",
+      "precast panel",
+      "large panel",
+      "prefabricated",
+      "factory made concrete"
+    ],
+    "revision": 1985,
+    "department": "BIS",
+    "applications": [
+      "Large Scale Housing",
+      "Precast Apartment Buildings",
+      "Industrial Buildings"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 1343",
+      "NBC 2016"
+    ],
+    "notes": "Mass housing using precast panels offers speed and quality advantages.",
+    "pdf": "pdfs/IS11447.pdf"
+  },
+  {
+    "id": "is-1641-2",
+    "number": "IS 1642",
+    "title": "Fire Safety of Buildings – Details of Construction",
+    "category": "Fire Safety",
+    "description": "Covers fire safety requirements for construction details including fire stops, fire doors and compartmentation.",
+    "keywords": [
+      "fire stop",
+      "fire door",
+      "fire compartment",
+      "fire wall",
+      "fire barrier",
+      "fire safety construction"
+    ],
+    "revision": 1989,
+    "department": "BIS",
+    "applications": [
+      "All Buildings",
+      "Fire Safety Design",
+      "High Rise Buildings"
+    ],
+    "relatedCodes": [
+      "IS 1641",
+      "NBC 2016"
+    ],
+    "notes": "Compartmentation limits fire spread within buildings.",
+    "pdf": "pdfs/IS1642.pdf"
+  },
+  {
+    "id": "is-13828-b",
+    "number": "IS 16700",
+    "title": "Criteria for Structural Safety of Tall Concrete Buildings",
+    "category": "Structural Engineering",
+    "description": "Provides criteria for structural safety of tall concrete buildings above 50m height.",
+    "keywords": [
+      "tall building",
+      "high rise",
+      "skyscraper",
+      "structural safety",
+      "wind",
+      "seismic",
+      "drift"
+    ],
+    "revision": 2017,
+    "department": "BIS",
+    "applications": [
+      "High Rise Buildings above 50m",
+      "Skyscrapers"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 1893",
+      "IS 875 Part 3"
+    ],
+    "notes": "India's first dedicated tall building design standard.",
+    "pdf": "pdfs/IS16700.pdf"
+  },
+  {
+    "id": "is-3696-3",
+    "number": "IS 7969",
+    "title": "Safety Code for Handling and Storage of Building Materials",
+    "category": "Construction Management",
+    "description": "Provides safety guidelines for handling and storage of various building materials at construction sites.",
+    "keywords": [
+      "safety",
+      "material handling",
+      "storage safety",
+      "construction site safety",
+      "HSE"
+    ],
+    "revision": 1975,
+    "department": "BIS",
+    "applications": [
+      "Construction Site Safety",
+      "Material Storage"
+    ],
+    "relatedCodes": [
+      "IS 4082",
+      "IS 3696"
+    ],
+    "notes": "Essential for construction site safety management.",
+    "pdf": "pdfs/IS7969.pdf"
+  },
+  {
+    "id": "iso-19650",
+    "number": "ISO 19650",
+    "title": "Organization and Digitization of Information about Buildings – BIM",
+    "category": "BIM",
+    "description": "International standard for managing information across the whole life cycle of a built asset using BIM.",
+    "keywords": [
+      "BIM",
+      "building information modelling",
+      "digital twin",
+      "ISO",
+      "information management",
+      "CDE"
+    ],
+    "revision": 2018,
+    "department": "ISO",
+    "applications": [
+      "Large Infrastructure Projects",
+      "Public Sector Buildings",
+      "International Projects"
+    ],
+    "relatedCodes": [
+      "ISO 9001",
+      "NBC 2016"
+    ],
+    "notes": "Increasingly mandated for government infrastructure projects globally.",
+    "pdf": "pdfs/ISO19650.pdf"
+  },
+  {
+    "id": "is-15883",
+    "number": "IS 15883",
+    "title": "Green Building Rating – Code of Practice",
+    "category": "Green Building",
+    "description": "Provides framework and criteria for green building rating and certification.",
+    "keywords": [
+      "green building",
+      "sustainability",
+      "IGBC",
+      "GRIHA",
+      "energy efficiency",
+      "water conservation"
+    ],
+    "revision": 2010,
+    "department": "BIS",
+    "applications": [
+      "Green Certified Buildings",
+      "Sustainable Construction"
+    ],
+    "relatedCodes": [
+      "NBC 2016",
+      "ISO 14001"
+    ],
+    "notes": "India's own green building standard alongside IGBC/GRIHA rating systems.",
+    "pdf": "pdfs/IS15883.pdf"
+  },
+  {
+    "id": "irc-116",
+    "number": "IRC 116",
+    "title": "Geometric Design of Grade Separators",
+    "category": "Transportation & Highway",
+    "description": "Provides geometric design standards for grade separators including interchanges and flyovers.",
+    "keywords": [
+      "grade separator",
+      "interchange",
+      "flyover",
+      "overpass",
+      "underpass",
+      "grade separation"
+    ],
+    "revision": 2014,
+    "department": "IRC",
+    "applications": [
+      "Highway Interchanges",
+      "Urban Grade Separators",
+      "Bypass Intersections"
+    ],
+    "relatedCodes": [
+      "IRC 73",
+      "IRC 86",
+      "IRC 6"
+    ],
+    "notes": "Covers cloverleaf, diamond, trumpet and other interchange types.",
+    "pdf": "pdfs/IRC116.pdf"
+  },
+  {
+    "id": "is-11861",
+    "number": "IS 11861",
+    "title": "Specification for Micro Silica for Use with Ordinary Portland Cement",
+    "category": "Construction Materials",
+    "description": "Specifies requirements for micro silica (silica fume) used as supplementary cementitious material.",
+    "keywords": [
+      "silica fume",
+      "micro silica",
+      "SCM",
+      "pozzolan",
+      "high performance concrete",
+      "reactive silica"
+    ],
+    "revision": 1986,
+    "department": "BIS",
+    "applications": [
+      "High Performance Concrete",
+      "Marine Concrete",
+      "Chemical Resistant Concrete"
+    ],
+    "relatedCodes": [
+      "IS 456",
+      "IS 10262",
+      "IS 3812"
+    ],
+    "notes": "Improves strength, durability and reduces permeability significantly.",
+    "pdf": "pdfs/IS11861.pdf"
+  },
+  {
+    "id": "is-2911-3",
+    "number": "IS 2911 Part 3",
+    "title": "Design and Construction of Pile Foundations – Under-Reamed Piles",
+    "category": "Foundation & Geotechnical",
+    "description": "Covers design and construction of under-reamed pile foundations commonly used in expansive soil areas.",
+    "keywords": [
+      "under-reamed pile",
+      "expansive soil",
+      "black cotton soil",
+      "pile foundation",
+      "bulb pile"
+    ],
+    "revision": 1980,
+    "department": "BIS",
+    "applications": [
+      "Expansive Soil Areas",
+      "Black Cotton Soil Regions",
+      "Light Structures"
+    ],
+    "relatedCodes": [
+      "IS 2911 Part 1",
+      "IS 6403",
+      "IS 1904"
+    ],
+    "notes": "Very common in Deccan plateau regions with expansive black cotton soil.",
+    "pdf": "pdfs/IS2911-Part-3.pdf"
+  },
+  {
+    "id": "is-10028",
+    "number": "IS 10028",
+    "title": "Code of Practice for Selection, Installation and Maintenance of Transformers",
+    "category": "Building Planning",
+    "description": "Provides guidelines for electrical transformers in buildings and infrastructure.",
+    "keywords": [
+      "transformer",
+      "electrical",
+      "power supply",
+      "substation",
+      "building electrical"
+    ],
+    "revision": 1981,
+    "department": "BIS",
+    "applications": [
+      "Industrial Buildings",
+      "Commercial Buildings",
+      "Power Infrastructure"
+    ],
+    "relatedCodes": [
+      "NBC 2016"
+    ],
+    "notes": "Essential for buildings with high power demand requiring substations.",
+    "pdf": "pdfs/IS10028.pdf"
+  },
+  {
+    "id": "is-1343-app",
+    "number": "IS 14268",
+    "title": "Uncoated Stress-Relieved Low Relaxation Seven-Ply Strand for Prestressed Concrete",
+    "category": "Prestressed Concrete",
+    "description": "Specifies requirements for low relaxation prestressing strands with improved properties.",
+    "keywords": [
+      "low relaxation strand",
+      "LR strand",
+      "prestress",
+      "tendon",
+      "7-wire",
+      "high tensile"
+    ],
+    "revision": 1995,
+    "department": "BIS",
+    "applications": [
+      "Modern Prestressed Bridges",
+      "Long Span Structures"
+    ],
+    "relatedCodes": [
+      "IS 6006",
+      "IS 1343"
+    ],
+    "notes": "Low relaxation strands have replaced normal relaxation strands in modern practice.",
+    "pdf": "pdfs/IS14268.pdf"
+  }
+]

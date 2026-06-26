@@ -224,6 +224,63 @@
     </div>
   </div>
 
+  <!-- ===== PDF VIEWER MODAL ===== -->
+  <div class="pdf-viewer-backdrop" id="pdfViewerBackdrop" hidden
+       role="dialog" aria-modal="true" aria-labelledby="pdfViewerTitle">
+
+    <div class="pdf-viewer-container">
+
+      <!-- Header bar -->
+      <div class="pdf-viewer-header">
+        <div class="pdf-viewer-meta">
+          <span class="pdf-viewer-icon">📄</span>
+          <div>
+            <div class="pdf-viewer-code-num" id="pdfViewerCodeNum">IS 456</div>
+            <div class="pdf-viewer-title" id="pdfViewerTitle">Plain and Reinforced Concrete</div>
+          </div>
+        </div>
+        <div class="pdf-viewer-controls">
+          <button class="pdf-ctrl-btn" id="pdfZoomOutBtn" title="Zoom out">−</button>
+          <span class="pdf-zoom-label" id="pdfZoomLabel">100%</span>
+          <button class="pdf-ctrl-btn" id="pdfZoomInBtn"  title="Zoom in">+</button>
+          <button class="pdf-ctrl-btn" id="pdfFitBtn"     title="Fit to page">⤢</button>
+          <div class="pdf-ctrl-sep"></div>
+          <button class="pdf-ctrl-btn" id="pdfPrintBtn"    title="Print PDF">🖨</button>
+          <button class="pdf-ctrl-btn" id="pdfDownloadBtn" title="Download PDF">⬇</button>
+          <button class="pdf-ctrl-btn pdf-ctrl-close" id="pdfCloseBtn" title="Close (Esc)">✕</button>
+        </div>
+      </div>
+
+      <!-- Viewer body -->
+      <div class="pdf-viewer-body" id="pdfViewerBody">
+
+        <!-- Loading state -->
+        <div class="pdf-loading-state" id="pdfLoadingState">
+          <div class="pdf-spinner"></div>
+          <span>Loading PDF…</span>
+        </div>
+
+        <!-- Render area: JS injects <embed> here; no transform:scale() applied -->
+        <div id="pdfRenderArea"
+             style="display:none;position:absolute;inset:0;width:100%;height:100%;">
+        </div>
+
+        <!-- Not available state -->
+        <div class="pdf-na-state" id="pdfNaState" hidden>
+          <div class="pdf-na-icon">📂</div>
+          <h3>PDF Not Available</h3>
+          <p>The file was not found in the <code>pdfs/</code> folder.</p>
+          <p class="pdf-na-hint">Place the PDF file at:<br/>
+            <code id="pdfNaPath">pdfs/IS456.pdf</code>
+          </p>
+          <p class="pdf-na-sub">All other features work without the PDF files.</p>
+        </div>
+
+      </div><!-- /pdf-viewer-body -->
+
+    </div><!-- /pdf-viewer-container -->
+  </div><!-- /pdf-viewer-backdrop -->
+
   <!-- ===== TOAST ===== -->
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
