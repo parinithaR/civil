@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Civil Engineering Code Book</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- Animated background blobs -->
+  <div class="bg-blobs" aria-hidden="true">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+  </div>
+
+  <!-- ===== HEADER ===== -->
+  <header class="header" id="top">
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">⚙️</span>
+        <div class="logo-text">
+          <span class="logo-title">Civil Engineering</span>
+          <span class="logo-sub">Code Book</span>
+        </div>
+      </div>
+      <nav class="header-actions">
+        <button class="btn-icon" id="bookmarksBtn" title="Bookmarks (B)" aria-label="Toggle bookmarks panel">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 012-2h10a2 2 0 012 2z"/></svg>
+          <span class="badge" id="bookmarkBadge" hidden>0</span>
+        </button>
+        <button class="btn-icon" id="historyBtn" title="Search History (H)" aria-label="Show search history">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </button>
+        <button class="btn-icon theme-toggle" id="themeToggle" title="Toggle Dark/Light Mode (T)" aria-label="Toggle theme">
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z"/></svg>
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ===== HERO SEARCH BAR (sticky) ===== -->
+  <section class="search-section" id="searchSection">
+    <div class="search-inner">
+      <h1 class="hero-title">Find Any Civil Engineering Code</h1>
+      <p class="hero-sub">Search across IS, IRC, NBC, SP, ACI, ASTM, Eurocode, BS, ISO and more</p>
+      <div class="search-box-wrap">
+        <span class="search-icon" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </span>
+        <input
+          type="search"
+          id="searchInput"
+          class="search-input"
+          placeholder="Search by code number, keyword, topic… e.g. IS 456, concrete, pile, earthquake"
+          autocomplete="off"
+          spellcheck="false"
+          aria-label="Search civil engineering codes"
+        />
+        <button class="search-clear" id="searchClear" title="Clear" aria-label="Clear search" hidden>✕</button>
+      </div>
+
+      <!-- Filters row -->
+      <div class="filters-row">
+        <div class="filter-group">
+          <label class="filter-label" for="categoryFilter">Category</label>
+          <select id="categoryFilter" class="filter-select" aria-label="Filter by category">
+            <option value="">All Categories</option>
+            <option>Concrete</option>
+            <option>Steel</option>
+            <option>Foundation &amp; Geotechnical</option>
+            <option>Transportation &amp; Highway</option>
+            <option>Bridge</option>
+            <option>Environmental</option>
+            <option>Water Supply</option>
+            <option>Wastewater</option>
+            <option>Building Planning</option>
+            <option>Construction Materials</option>
+            <option>Earthquake</option>
+            <option>Wind</option>
+            <option>Timber</option>
+            <option>Surveying</option>
+            <option>Railway</option>
+            <option>Airport</option>
+            <option>Tunnel</option>
+            <option>Irrigation &amp; Hydraulics</option>
+            <option>Hydrology</option>
+            <option>Construction Management</option>
+            <option>Fire Safety</option>
+            <option>Masonry</option>
+            <option>Structural Engineering</option>
+            <option>Prestressed Concrete</option>
+            <option>Quality Control</option>
+            <option>Green Building</option>
+            <option>BIM</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label" for="deptFilter">Department</label>
+          <select id="deptFilter" class="filter-select" aria-label="Filter by department">
+            <option value="">All Departments</option>
+            <option>BIS</option>
+            <option>IRC</option>
+            <option>ACI</option>
+            <option>ASTM</option>
+            <option>CEN</option>
+            <option>BSI</option>
+            <option>ISO</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label class="filter-label" for="sortSelect">Sort By</label>
+          <select id="sortSelect" class="filter-select" aria-label="Sort results">
+            <option value="relevance">Relevance</option>
+            <option value="number">Code Number</option>
+            <option value="revision">Latest Revision</option>
+            <option value="category">Category</option>
+          </select>
+        </div>
+        <button class="btn-reset" id="resetFilters" title="Reset all filters">Reset</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== QUICK CHIPS ===== -->
+  <div class="chips-bar" id="chipsBar">
+    <span class="chips-label">Popular:</span>
+    <button class="chip" data-query="concrete">Concrete</button>
+    <button class="chip" data-query="steel">Steel</button>
+    <button class="chip" data-query="pile">Pile Foundation</button>
+    <button class="chip" data-query="earthquake">Earthquake</button>
+    <button class="chip" data-query="bridge">Bridge</button>
+    <button class="chip" data-query="pavement">Pavement</button>
+    <button class="chip" data-query="water">Water Supply</button>
+    <button class="chip" data-query="masonry">Masonry</button>
+    <button class="chip" data-query="prestressed">Prestressed</button>
+    <button class="chip" data-query="fire">Fire Safety</button>
+  </div>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  <main class="main-content" id="mainContent">
+
+    <!-- Stats bar -->
+    <div class="stats-bar" id="statsBar">
+      <span id="resultCount" class="result-count">Loading codes…</span>
+      <div class="view-toggle">
+        <button class="view-btn active" id="gridViewBtn" title="Grid view" aria-label="Grid view">
+          <svg viewBox="0 0 24 24" fill="currentColor"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+        </button>
+        <button class="view-btn" id="listViewBtn" title="List view" aria-label="List view">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Cards grid -->
+    <div class="cards-grid" id="cardsGrid" role="list" aria-label="Code search results"></div>
+
+    <!-- No results message -->
+    <div class="no-results" id="noResults" hidden>
+      <div class="no-results-icon">🔍</div>
+      <h3>No codes found</h3>
+      <p>Try a different keyword, code number, or category.</p>
+      <button class="btn-primary" id="showAllBtn">Show All Codes</button>
+    </div>
+
+    <!-- Loading skeleton -->
+    <div class="loading-grid" id="loadingGrid">
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+      <div class="skeleton-card"></div>
+    </div>
+  </main>
+
+  <!-- ===== SCROLL TO TOP ===== -->
+  <button class="scroll-top" id="scrollTop" title="Scroll to top" aria-label="Scroll to top" hidden>
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="18 15 12 9 6 15"/></svg>
+  </button>
+
+  <!-- ===== BOOKMARKS PANEL ===== -->
+  <aside class="bookmarks-panel" id="bookmarksPanel" aria-label="Bookmarks panel" hidden>
+    <div class="panel-header">
+      <h2>⭐ Bookmarks</h2>
+      <div class="panel-actions">
+        <button class="btn-sm" id="exportPdfBtn" title="Export to PDF">📄 Export</button>
+        <button class="btn-sm" id="clearBookmarksBtn" title="Clear all bookmarks">🗑 Clear</button>
+        <button class="btn-icon" id="closeBookmarksBtn" aria-label="Close bookmarks">✕</button>
+      </div>
+    </div>
+    <div class="bookmarks-list" id="bookmarksList">
+      <p class="panel-empty">No bookmarks yet.<br/>Click ⭐ on any code card to save it.</p>
+    </div>
+  </aside>
+
+  <!-- ===== HISTORY PANEL ===== -->
+  <aside class="history-panel" id="historyPanel" aria-label="Search history panel" hidden>
+    <div class="panel-header">
+      <h2>🕐 Search History</h2>
+      <div class="panel-actions">
+        <button class="btn-sm" id="clearHistoryBtn">🗑 Clear</button>
+        <button class="btn-icon" id="closeHistoryBtn" aria-label="Close history">✕</button>
+      </div>
+    </div>
+    <div class="history-list" id="historyList">
+      <p class="panel-empty">No search history yet.</p>
+    </div>
+  </aside>
+
+  <!-- ===== OVERLAY ===== -->
+  <div class="overlay" id="overlay" hidden></div>
+
+  <!-- ===== DETAIL MODAL ===== -->
+  <div class="modal-backdrop" id="modalBackdrop" hidden role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modalClose" aria-label="Close modal">✕</button>
+      <div class="modal-content" id="modalContent"><!-- Filled by JS --></div>
+    </div>
+  </div>
+
+  <!-- ===== TOAST ===== -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <!-- ===== KEYBOARD SHORTCUTS HELP ===== -->
+  <div class="shortcuts-modal" id="shortcutsModal" hidden>
+    <div class="shortcuts-box">
+      <button class="modal-close" id="shortcutsClose">✕</button>
+      <h3>⌨️ Keyboard Shortcuts</h3>
+      <table class="shortcuts-table">
+        <tr><td><kbd>/</kbd></td><td>Focus search bar</td></tr>
+        <tr><td><kbd>Esc</kbd></td><td>Close modal / panel</td></tr>
+        <tr><td><kbd>B</kbd></td><td>Toggle bookmarks panel</td></tr>
+        <tr><td><kbd>H</kbd></td><td>Toggle history panel</td></tr>
+        <tr><td><kbd>T</kbd></td><td>Toggle dark / light mode</td></tr>
+        <tr><td><kbd>?</kbd></td><td>Show this help</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
